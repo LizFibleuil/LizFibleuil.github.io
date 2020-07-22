@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liz Fibleuil | Full-Stack Developer</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="assets/main.css">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500&family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/4ad5944614.js" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.6/handlebars.min.js"></script>
+        <!--<script src='handlebars-v4.7.6.js'></script>-->
+        <script id="intro-description" type="text/x-handlebars-template">
+            <p>{{intro}}</p>
+        </script>
+        <script id="resume-text" type="text/x-handlebars-template">
+            <p>{{resume}}</p>
+        </script>
+        <script id="codefolio-text" type="text/x-handlebars-template">
+            <p>{{codefolio}}</p>
+        </script>
+    </head>
+    <body>
+
+        <!--Header Bar -->
+        <header id='header' class='header'>
+            <nav>
+            <!--Logo-->
+                <div class='logo-contact'>      
+                    <a href='#contact'>
+                        <img src='./images/Official_Offline Creative Logo.png' alt='Logo for Liz Fibleuil'>
+                    </a>
+                    <a href='#collaborate'>
+                        Let's Collaborate
+                    </a>
+                </div>
+            <!--Menu-->
+                <div class='nav-links'>
+                    <ul>
+                        <li><a href='#bio'>Bio</a></li>
+                        <li><a href='#resume'>Resume</a></li>
+                        <li><a href='#codefolio'>CodeFolio</a></li>
+                        <li><a href=''>CodeTorials</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <!-- Introduction Section -->
+        <section class='section-container' id='introduction'>
+            <div id='background-circle'>
+                <img id='profile-pic' src='./images/Fibleuil_Headshot.png' alt="Profile Picture of Liz Fibleuil">
+            </div>
+            <div>
+                
+                <div id="name">
+                    <h1>Liz </h1><h1 id='lastname'>Fibleuil</h1>
+                    <h2>Full-Stack Developer || Designer || Buildings Architect</h2>
+                </div>
+                <div id='background-triangle'></div>
+                <div id='background-rectangle'></div>
+                <div id="description">
+                    <!--Using Template File-->
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- Bio Section -->
+        
+        <section class='section-container' id='bio'>
+            <div id='background-triangle2'></div>
+            <h3 class="section-title" id="bio-title">Bio<span>Graphic</span></h3>
+            <div class='biographic'>
+                <!--Image of Map of America-->
+                <img src='./images/America Map.png' alt='map of continent of America' id='map-america'>
+                <!--Entire 2010 Section-->
+                <div class="bio-year">
+                    <h4 class='year' id='year-2010'>2010</h4>
+                    <div class='bio-container'>
+                        <div class='what-container'>
+                            <h5 class='what-text'>What?</h5>
+                        </div>
+                        <div class="timeline-arrow">
+                            <div class='arrow-rectangle'id='rectangle-2010'>
+                                <h4 class='arrow-text'>Architecture School</h4>
+                            </div>
+                            <div class='arrow-point'id='point-2010'></div>
+                        </div>
+                        <div class='bio-box'>
+                            <div class='bio-icons'>
+                                <i class="fas fa-heart"></i>
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Why?</h5>
+                                <h6 class='why-description'>found a passion for creating experiences and problem solving</h6> 
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Achieved</h5>
+                                <h6 class='why-description'>Move to the USA from Panama & became Fluent in English</h6> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Entire 2012 Section-->
+                <div class="bio-year">
+                    <h4 class='year' id='year-2012'>2012</h4>
+                    <div class='bio-container'>
+                        <div class='what-container'>
+                            <h5 class='what-text'>What?</h5>
+                        </div>
+                        <div class="timeline-arrow">
+                            <div class='arrow-rectangle'id='rectangle-2012'>
+                                <h4 class='arrow-text'>School & Full-Time Work</h4>
+                            </div>
+                            <div class='arrow-point'id='point-2012'></div>
+                        </div>
+                        <div class='bio-box'>
+                            <div class='bio-icons'>
+                                <i class="fas fa-drafting-compass"></i>
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Why?</h5>
+                                <h6 class='why-description'>Understood that you learn more by doing</h6> 
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Achieved</h5>
+                                <h6 class='why-description'>Finished my Bachelor of Science in Architecture</h6> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Entire 2016 Section-->
+                <div class="bio-year">
+                    <h4 class='year' id='year-2016'>2016</h4>
+                    <div class='bio-container'>
+                        <div class='what-container'>
+                            <h5 class='what-text'>What?</h5>
+                        </div>
+                        <div class="timeline-arrow">
+                            <div class='arrow-rectangle'id='rectangle-2016'>
+                                <h4 class='arrow-text'>Work & License Exams</h4>
+                            </div>
+                            <div class='arrow-point'id='point-2016'></div>
+                        </div>
+                        <div class='bio-box'>
+                            <div class='bio-icons'>
+                                <i class="fas fa-building"></i>
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Why?</h5>
+                                <h6 class='why-description'>Why wait? Get it done attitude</h6> 
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Achieved</h5>
+                                <h6 class='why-description'>Master of Architecture & Master of Science in Sustainable Design</h6> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Entire 2017 Section-->
+                <div class="bio-year">
+                    <h4 class='year' id='year-2017'>2017</h4>
+                    <div class='bio-container'>
+                        <div class='what-container'>
+                            <h5 class='what-text'>What?</h5>
+                        </div>
+                        <div class="timeline-arrow">
+                            <div class='arrow-rectangle'id='rectangle-2017'>
+                                <h4 class='arrow-text'>Work & Personal Exploration</h4>
+                            </div>
+                            <div class='arrow-point'id='point-2017'></div>
+                        </div>
+                        <div class='bio-box'>
+                            <div class='bio-icons'>
+                                <i class="fas fa-splotch"></i>
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Why?</h5>
+                                <h6 class='why-description'>Slow down and assess the next step</h6> 
+                            </div>
+                            <div class='why-block'>
+                                <h5 class='why-title'>Achieved</h5>
+                                <h6 class='why-description'>Professional Architecture License</h6> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Entire 2019 Section-->
+                <!--<div class= 'bio-year'>
+                    <h4 class='year' id='year-2019'>2019</h4>
+                    <div id='background-rectangle-2019'></div>
+                    <div class='arrow-point-2019'>
+                    
+                </div>
+                </div>-->
+            </div>
+        </section>
+        <!-- Entire 2019 Section - This was taken out of the Bio Section because the Div was not going all the way to the edge of the webpage due to the fact that it was inside the .section-container div and that locked in it´s size to be smaller than what we were looking for -->
+        <div class= 'bio-year'>
+            <h4 class='year' id='year-2019'>2019</h4>
+            <div id='background-rectangle-2019'>
+                <h5 class='curiosity-title'>Curiosity Lead Me to Code</h5>
+                <h6 class='curiosity-description'>Discovered that programming is another way of creating experiences and problem solving</h6>
+                <a href='#header' class='back-anchor'>Back to the top</a>
+            </div>
+            <div class='arrow-point-2019'></div>
+            
+        </div>
+         <!-- Resume Section - Title Area -->
+        <div id='background-triangle-top-2019'></div>
+        <div id='background-triangle-bottom-2019'></div>
+        <div id='background-triangle-resume'></div>
+        <!-- <div id='background-rectangle-resume'></div>
+       <div id='background-triangle2-resume'></div>-->
+        
+        <!-- Resume Section --> 
+        <section class='section-container' id='resume'>
+            <h3 class="section-title" id="resume-title">Resu<span>Me</span></h3>
+            <div class='resume-description' id='resume-description'>
+                <!--Using Template File-->
+            </div>
+            <div class='overall-resume'>
+                <div class='column-resume' id='education'>
+                    <div class='subcolumn'>
+                        <i class="fas fa-briefcase"></i>
+                        <h5 class='i-title'>Background</h5>
+                    </div>
+                    <div class='subcolumn'>
+                        <h4>Education</h4>
+                        <h5>Master of Science in Sustainable Design</h5>
+                        <h6>Catholic University of America - 2016</h6>
+                        <h5>Master of Architecture</h5>
+                        <h6>Virginia Polytechnic University and Institute - 2015</h6>
+                    </div>
+                    <div class='subcolumn'>
+                        <h4>Professional Work</h4>
+                        <h5>Project Architect</h5>
+                        <h6>Stantec 2016 - Present</h6>
+                        <h5>Staff Architect</h5>
+                        <h6>Inscape Studio - 2013-2015</h6>
+                    </div>
+                </div>        
+                <div class='column-resume' id='languages'>
+                    <div class='subcolumn'>
+                        <i class="fas fa-desktop"></i>
+                        <h5 class='i-title'>Skills</h5>
+                    </div>
+                    <div class='subcolumn'>
+                        <h4>Languages</h4>
+                        <h5>HTML, CSS, JavaScript</h5>
+                        <h6>Front-End</h6>
+                        <h5>SQL</h5>
+                        <h6>Back-End</h6>
+                    </div>
+                    <div class='subcolumn'>
+                        <h4>Libraries/Frameworks</h4>
+                        <h5>React</h5>
+                        <h5>Handlebars js</h5>
+                        <h5>Node js</h5>
+                        <h5>Express js</h5>
+                    </div>
+                </div>        
+                <div class='column-resume' id='tools'>
+                    <div class='subcolumn'>
+                        <i class="fas fa-tools"></i>
+                        <h5 class='i-title'>Add-Ons</h5>
+                    </div>
+                    <div class='subcolumn'>
+                        <h4>Tools</h4>
+                        <h5>Command Line</h5>
+                        <h5>Git</h5>
+                        <h5>GitHub</h5>
+                        <h5>Photoshop, Illustrator, inDesign</h5>
+                        <h5>Revit</h5>
+                        <h5>autoCAD</h5>
+                    </div>
+                    <div class='subcolumn'>
+                        <h4>Hobbies/Interests</h4>
+                        <h5>Design</h5>
+                        <h6>Architecture & Jewelry</h6>
+                        <h5>Cycling</h5>
+                        <h5>Business Development & Investments</h5>
+                    </div>       
+                </div>
+            </div>
+            <a href='#header' class='back-anchor'>Back to the top</a>
+        </section>
+        <!-- CodeFolio Section - Title Area -->
+        <div id='background-triangle3'></div>
+        <!-- CodeFolio Section -->
+        <section class='section-container' id='codefolio'>
+            <h3 class="section-title" id="codefolio-title">Code<span>Folio</span></h3>
+            <div class='codefolio-description' id='codefolio-description'>
+                <!--Using Template File-->
+            </div>
+            <div class='overall-codefolio'>
+                <div class='column-codefolio'>
+                    <img src='./images/Project_Placeholder.png' alt='project-image'>
+                    <h5>Name Placeholder</h5>
+                    <h6>HTML,CSS,Javascript</h6>
+                </div>
+                <div class='column-codefolio'>
+                    <img src='./images/Project_Placeholder.png' alt='project-image'>
+                    <h5>Name Placeholder</h5>
+                    <h6>HTML,CSS,Javascript</h6>
+                </div>
+                <div class='column-codefolio'>
+                    <img src='./images/Project_Placeholder.png' alt='project-image'>
+                    <h5>Name Placeholder</h5>
+                    <h6>HTML,CSS,Javascript</h6>
+                </div>
+                <div class='column-codefolio'>
+                    <img src='./images/Project_Placeholder.png' alt='project-image'>
+                    <h5>Name Placeholder</h5>
+                    <h6>HTML,CSS,Javascript</h6>
+                </div>
+            </div>
+            <a href='#header' class='back-anchor'>Back to the top</a>
+        </section>
+        <div id='collaborate-triangle'></div>
+        <section class='section-container' id='collaborate'>
+            <h3 class="section-title" id="collaborate-title">Let's <span>Collaborate !</span></h3>
+            <p id='contact-description'>Feel free to get in touch with me. I am always available to discuss new projects, opportunities and collaborations. You can e-mail me or fill the form below. I'll get back to you as soon as I can.</p>
+            <div class='contact'>
+                <div class='contact-info'>
+                    <!--<i class="fas fa-envelope"></i>-->
+                    <h4>liz.fibleuil@gmail.com</h4>
+                </div>
+            </div>
+            <form action='./assets/contact-form.php' method='POST'>
+                <div class='form-content'>
+                    <label for='fname'>Name *</label>
+                    <br>
+                    <input type='text' id='fname' name='fname' size=30 required>
+                    <br>
+                    <br>
+                    <label for='femail'>Email *</label>
+                    <br>
+                    <input type='email' id='femail' name='femail' size=30 required>
+                    <br>
+                    <br>
+                    <label for='fsubject'>Subject *</label>
+                    <br>
+                    <input type='text' id='fsubject' name='fsubject' size=30 required>
+                    <br>
+                    <br>
+                    <label for='fmessage'>Message *</label>
+                    <br>
+                    <textarea id='fmessage' name='fmessage' rows='10' cols='47' required></textarea>
+                    <p>* Required</p>
+                    <input type='submit' value='Send' id='contact-submit'>
+                </div>  
+            </form>
+        </section>
+        
+        <!-- Footer -->
+        <footer>
+            <div class='overall-footer'>
+                <div class='footer-column'>
+                    <h1>Liz </h1><h1>Fibleuil</h1>
+                    <h2>Full-Stack Developer</h2>
+                    <h2>Designer</h2>
+                    <h2>Buildings Architect</h2>
+                </div>
+                <div class='footer-column'>
+                    <div class='nav-links-footer'>
+                        <ul>
+                            <li><a href='#bio'>Bio</a></li>
+                            <li><a href='#resume'>Resume</a></li>
+                            <li><a href='#codefolio'>CodeFolio</a></li>
+                            <li><a href=''>CodeTorials</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class='footer-column'>
+                    <a href='#header'>
+                        <img src='./images/Official_Offline Creative Logo_Tan.png' alt='Logo for Liz Fibleuil'>
+                    </a>
+                </div>
+            </div> 
+        </footer>
+
+         <!-- Scripts -->
+        <script src="./templates/Template_Intro.js" type="text/javascript"></script>
+        <script src="./templates/Template_Resume.js" type="text/javascript"></script>
+        <script src="./templates/Template_Codefolio.js" type="text/javascript"></script>
+    </body>
+</html>
