@@ -162,9 +162,13 @@ nav {
     right:0;
 }
 /* Introduction - Media Query*/
-@media screen and (max-width:700px){
+@media screen and (max-width:740px){
     #lastname {
         color:black;
+    }
+    #description{
+        /*border:1px solid steelblue;*/
+        margin: 55px 25px 0 25px;
     }
     .logo-contact {
         text-transform: uppercase;
@@ -471,6 +475,25 @@ nav {
         margin-top:-30px;
     }
 }
+@media screen and (max-width: 970px){
+    #map-america {
+        display:none;
+        /*height:200px;*/
+    }
+}
+@media screen and (max-width:740px){
+    .biographic {
+        /*border:1px solid black;*/
+        margin-top:170px;
+    }
+    .bio-icons {
+        display:none; 
+    } 
+    .bio-box {
+        flex-direction:column;
+        margin:20px 0 20px 0;
+    } 
+}
 @media screen and (max-width: 600px){
     #map-america {
         display:none;
@@ -509,7 +532,6 @@ nav {
         font-size:0.6em;
     }
     .bio-box {
-        flex-direction:column;
         margin:20px 0 20px 0;
     }
             /* Why Block */
@@ -900,7 +922,12 @@ footer h2 {
     margin-left:80px;
 } 
 /* Footer - Media Query*/
-@media screen and (max-width: 600px){
+@media screen and (max-width: 860px){
+    .footer-column img {
+        height: 150px;;
+    }
+}
+@media screen and (max-width: 700px){
     .overall-footer {
         height: 230px;
     }
