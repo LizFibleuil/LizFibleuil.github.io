@@ -17,6 +17,7 @@ html,body {
     --bio-arrow-text:rgba(0, 0, 0,0.5);
     --bio-why-text:rgba(92, 21, 40, 1);
     --input-bg-color:rgba(141,136,109,0.1); 
+    overflow-x: hidden;
 }
 /* Navigation Bar */
 nav {
