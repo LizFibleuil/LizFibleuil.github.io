@@ -19,6 +19,10 @@ html,body {
     --input-bg-color:rgba(141,136,109,0.1); 
     overflow-x: hidden;
 }
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
 /* Navigation Bar */
 nav {
     position: static;
