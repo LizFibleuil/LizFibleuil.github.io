@@ -23,6 +23,11 @@ html,body {
     width: device-width ;
     zoom: 1.0 ;
   }
+#body-column {
+    overflow-x:hidden;
+    position:relative;
+}
+
 /* Navigation Bar */
 nav {
     position: static;
