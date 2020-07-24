@@ -88,7 +88,7 @@ nav {
 .section-container {
     /*border: 1px solid rgb(43, 226, 150);*/
     margin: 50px 0 0 0;
-    overflow:auto;
+    overflow:hidden;
 }
 .section-container h1 {
     display:inline;
