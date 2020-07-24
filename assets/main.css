@@ -162,7 +162,7 @@ nav {
     right:0;
 }
 /* Introduction - Media Query*/
-@media screen and (max-width:740px){
+@media only screen and (max-width:740px){
     #lastname {
         color:black;
     }
@@ -430,7 +430,7 @@ nav {
     border-top: 40px solid var(--bio-arrow-color-2017);
 }
 /* Bio - Media Query*/
-@media screen and (max-width: 1024px){
+@media only screen and (max-width: 1024px){
     #map-america {
         /*display:none;*/
         height:400px;
@@ -475,13 +475,13 @@ nav {
         margin-top:-30px;
     }
 }
-@media screen and (max-width: 970px){
+@media only screen and (max-width: 970px){
     #map-america {
         display:none;
         /*height:200px;*/
     }
 }
-@media screen and (max-width:740px){
+@media only screen and (max-width:740px){
     .biographic {
         /*border:1px solid black;*/
         margin-top:170px;
@@ -494,7 +494,7 @@ nav {
         margin:20px 0 20px 0;
     } 
 }
-@media screen and (max-width: 600px){
+@media only screen and (max-width: 600px){
     #map-america {
         display:none;
         /*height:200px;*/
@@ -767,7 +767,7 @@ nav {
     margin:0;
 }
 /* CodeFolio - Media Query*/
-@media screen and (max-width: 600px){
+@media only screen and (max-width: 600px){
     #codefolio {
         margin-top:-150px;
     }
@@ -922,7 +922,7 @@ footer h2 {
     margin-left:80px;
 } 
 /* Footer - Media Query*/
-@media screen and (max-width: 860px){
+@media only screen and (max-width: 860px){
     .footer-column img {
         height: 150px;;
     }
