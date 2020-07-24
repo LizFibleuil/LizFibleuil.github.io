@@ -167,6 +167,9 @@ nav {
     .nav-links {
         display:none;
     }
+    #profile-pic {
+        display:none;
+    }
 }
 
 @media only screen and (max-width:740px){
