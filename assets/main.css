@@ -205,12 +205,12 @@ nav {
 }
 @media only screen and (max-width:600px){
     .section-container h1 {
-        letter-spacing: .2em;
+        letter-spacing: .19em;
         font-size: 2.3em;
     }
     #description{
         /*border:1px solid steelblue;*/
-        margin: 55px 25px 0 25px;
+        margin: 45px 25px 0 25px;
     }
     .section-container h2 {
         font-size: 0.4em;
