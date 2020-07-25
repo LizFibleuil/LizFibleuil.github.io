@@ -42,7 +42,10 @@ nav {
 .logo-contact {
     /*border: 1px solid blue;*/
     height: 68px;
-    text-align:center;
+    text-align:left;
+    width:30%;
+    text-transform: uppercase;
+    font-size:0.7em
 }
 .logo-contact a {
     vertical-align: middle;
@@ -59,14 +62,14 @@ nav {
     /*border: 1px solid green;*/
     height: 68px;
     display: flex;
-    min-width: 450px;
+    width: 45%;
     justify-content: flex-end;
     align-items:center;
     padding-right: 20px;
 }
 .nav-links ul {
     display:flex;
-    min-width:410px;
+    min-width:100%;
     justify-content: space-between;
 } 
 .nav-links li {
@@ -99,7 +102,7 @@ nav {
     font-size: 3em;
     text-transform:uppercase;
     font-family: 'Ubuntu', sans-serif;
-    letter-spacing: .54em;
+    letter-spacing: .51em;
     padding:0;
     color: var(--main-color);
 }
@@ -108,7 +111,7 @@ nav {
     font-weight: 500;
     text-transform:uppercase;
     font-family: 'Ubuntu', sans-serif;
-    letter-spacing: .2em;
+    letter-spacing: .18em;
     margin-top:0;
     padding:0;   
 }
@@ -171,56 +174,74 @@ nav {
     right:0;
 }
 /* Introduction - Media Query*/
-@media only screen and (max-width:600px){
+@media only screen and (max-width:900px){
+    .logo-contact {
+        width:30%;
+        font-size:0.5em;
+    }
     .nav-links {
-        display:none;
+        min-width: 40%;
     }
-    #profile-pic {
-        display:none;
+    .nav-links li {
+        font-size: 0.7em;
     }
-}
-
-@media only screen and (max-width:740px){
+    .section-container h1 {
+        letter-spacing: .45em;
+    }
+    .section-container h2 {
+        font-size: 0.8em;
+        font-weight: 500;
+        letter-spacing: .20em; 
+    }
     #lastname {
         color:black;
     }
     #description{
         /*border:1px solid steelblue;*/
+        margin-top: 15px;
+        max-width:50%;
+        float:right;
+    }
+}
+@media only screen and (max-width:600px){
+    .section-container h1 {
+        letter-spacing: .2em;
+        font-size: 2.3em;
+    }
+    #description{
+        /*border:1px solid steelblue;*/
         margin: 55px 25px 0 25px;
     }
-    .logo-contact {
-        text-transform: uppercase;
-        font-size:9px;
-    }
-   
     .section-container h2 {
-        font-size: 9px;
-        letter-spacing: 0.24em;
+        font-size: 0.4em;
+        letter-spacing: 0.1em;
     }
     .section-container p {
-        font-size:11px;
+        font-size:0.75em;
         line-height: 1.4em;
         margin-left:20px;
     }
+    .logo-contact {
+        width:45%;
+        font-size:0.3em;
+    }
     .nav-links {
-        min-width: 400px;
+        /* In this Query we need to add the burger menu*/
+        display:none;
+        width: 50%;
     }
     .nav-links ul {
-        min-width:210px;
+        min-width:100%;
     } 
     .nav-links li {
-        border:none;
         padding: 2px 8px 2px 8px;
         font-weight:500; 
         text-transform: uppercase; 
-        font-size: 13px;
+        font-size: 0.7em;
     }
-    .nav-links li a {
-        border-bottom:1px solid black;
-    }
-    .section-title  {
+    /*.section-title  {
         font-size: 1.5em;
-    }
+    }*/
     .back-anchor {
         font-size:14px;
     } 
@@ -249,8 +270,8 @@ nav {
     padding: 0 0 0 10px;
 }
 #map-america {
-    height:600px;
-    width:auto;
+    height:auto;
+    width:40%;
     position:absolute;
     top:600px;
     right:0%;
@@ -278,10 +299,11 @@ nav {
     color:var(--main-title-color); 
 }
 .bio-container {
+    border: 1px solid blue;
     display:flex;
 }
 .what-container {
-    /*border: 1px solid blue;*/
+    border: 1px solid magenta;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -330,21 +352,23 @@ nav {
     vertical-align: center;
 }
 .bio-box {
-    /*background-color:rgba(188,175,34,.2);
-    border:1px solid rgba(188,175,34,.2);*/
+    /*background-color:rgba(188,175,34,.2);*/
+    border:1px solid red;
     border-radius:5px;
     display:flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     padding:10px;
     margin:20px 0 20px 0;
+    width:50%;
 }
         /* Why Block */
 .why-block {
-    /*border:1px solid mediumslateblue;*/
+    border:1px solid mediumslateblue;
+    width:40%;
     padding:10px;
 }
 .why-title {
-    font-size:2em;
+    font-size:1.5em;
     text-transform:uppercase;
     font-family: 'Ubuntu', sans-serif;
     color:var(--bio-why-text);
@@ -355,8 +379,8 @@ nav {
 }
 .why-description {
     text-transform: uppercase;
-    font-size:1em;
-    width:250px;
+    font-size:0.75em;
+    width:100%;
     margin:0;
     color:var(--second-title-color);
 }
@@ -449,10 +473,6 @@ nav {
 }
 /* Bio - Media Query*/
 @media only screen and (max-width: 1024px){
-    #map-america {
-        /*display:none;*/
-        height:400px;
-    }
     .bio-icons {
         font-size: 3em;
         margin-top:-80px;
