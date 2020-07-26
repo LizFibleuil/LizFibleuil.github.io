@@ -279,7 +279,7 @@ nav {
 }
     /* Bio - Container*/
 .biographic {
-    /*border:1px solid black;*/
+    border:1px solid black;
     margin-top:110px;
 }
 .bio-year {
@@ -290,7 +290,6 @@ nav {
 .bio-year .year {
     /*background-color:rgba(255,192,203,0.5);*/
     width:100vw;
-
     font-size: 1.6em;
     font-family: 'Ubuntu', sans-serif;
     text-align:center;
@@ -322,16 +321,18 @@ nav {
 }
         /* TimeLine Arrow */
 .timeline-arrow {
-    /*border:1px solid crimson;*/
+    border:1px solid crimson;
     display:inline-block;
+    width:160px;
 }
 .arrow-rectangle {
+    transform:rotate(-90deg);
     display:flex;
     justify-content: center;
     align-items: center;
-    height:180px;
-    width:80px;
-    margin-left:40px;
+    height:80px;
+    width:160px;
+    margin:40px 0;
 }
 .arrow-point {
     width: 0;
@@ -340,16 +341,14 @@ nav {
     border-right: 80px solid transparent;
 }
 .arrow-text {   
-    transform:rotate(-90deg);
+    /*transform:rotate(-90deg);*/
     text-transform: uppercase;
-    height:80px;
-    width:180px;
-    margin:0 0 0px 0px;
-    padding-top:40px;
-    font-size:0.8em;
-    color:var(--bio-arrow-text);
+    height:100%;
+    /*width:100%;*/
+    margin-top:80px;
+    font-size:0.55em;
+    /*color:var(--bio-arrow-text);*/
     text-align:center;
-    vertical-align: center;
 }
 .bio-box {
     /*background-color:rgba(188,175,34,.2);*/
@@ -424,7 +423,7 @@ nav {
     font-size:1em;
     color:white;
     text-align:center;
-    width:100vw;
+    width:90vw;
 }
 #background-rectangle-2019 {
     width: 100vw;
@@ -472,7 +471,14 @@ nav {
     border-top: 40px solid var(--bio-arrow-color-2017);
 }
 /* Bio - Media Query*/
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 900px){
+    .section-title  {
+        font-size: 1.5em;
+    }
+    #bio-title {
+        margin-top:30px;
+        letter-spacing: .54em;
+    }
     .bio-icons {
         font-size: 3em;
         margin-top:-80px;
@@ -487,22 +493,7 @@ nav {
     .why-description {
         font-size:0.7em;
     }
-    .arrow-rectangle {
-        height:160px;
-        width:60px;
-        margin-left:30px;
-    }
-    .arrow-point {
-        width: 0;
-        height: 0;
-        border-left: 60px solid transparent;
-        border-right: 60px solid transparent;
-    }
-    .arrow-text {   
-        height:60px;
-        width:160px;
-        font-size:0.6em;
-    }
+    
     .curiosity-title {
         font-size:1.2em;  
     }
@@ -513,68 +504,69 @@ nav {
         margin-top:-30px;
     }
 }
-@media only screen and (max-width: 970px){
-    #map-america {
-        display:none;
-        /*height:200px;*/
-    }
-}
-@media only screen and (max-width:740px){
+@media only screen and (max-width:768px){
     .biographic {
-        /*border:1px solid black;*/
-        margin-top:170px;
+        margin-top:110px;
     }
     .bio-icons {
         display:none; 
-    } 
-    .bio-box {
-        flex-direction:column;
-        margin:20px 0 20px 0;
-    } 
-}
-@media only screen and (max-width: 600px){
-    #map-america {
-        display:none;
-        /*height:200px;*/
     }
-    .biographic {
-        /*border:1px solid black;*/
-        margin-top:120px;
+    .timeline-arrow {
+        width:120px;
     }
-    .bio-year {
-        /*border:1px solid red;*/
-        margin-top:0px;
-        
-    }
-    .bio-year .year {
-        font-size: 1.2em; 
-    }
-    .what-text {
-        font-size:1em;
-    }
-            /* TimeLine Arrow */
     .arrow-rectangle {
-        height:160px;
-        width:60px;
-        margin-left:30px;
+        height:60px;
+        width:140px;
+        margin:40px -10px;
     }
     .arrow-point {
-        width: 0;
-        height: 0;
         border-left: 60px solid transparent;
         border-right: 60px solid transparent;
     }
     .arrow-text {   
-        height:60px;
-        width:160px;
-        font-size:0.6em;
+        margin-top:60px;
+        font-size:0.55em;
+    }
+    .why-title {
+        font-size:1.2em;
+    }
+    .why-description {
+        font-size:0.55em;
+    }
+    #map-america {
+        top:700px;
+        width:50%;
+        right:-50px;   
+    } 
+}
+@media only screen and (max-width: 600px){
+    #bio-title {
+        margin-top:45px;
+        letter-spacing: .54em;
+    }
+    #map-america {
+        display:none;
+    }
+    .biographic {
+        margin-top:140px;
+    }
+    .bio-year {
+        /*border:1px solid red;*/
+        margin-top:0px;   
+    }
+    .bio-year .year {
+        font-size: 1.2em; 
     }
     .bio-box {
-        margin:20px 0 20px 0;
+        width:70%;
+    }
+    .what-text {
+        font-size:1em;
     }
             /* Why Block */
     .why-block {
         padding:0 10px 0 10px;
+        width:45%;
     }
     .why-title {
         font-size:1.2em;
@@ -583,17 +575,45 @@ nav {
     .why-description {
         font-size:0.7em;
     }
-    .bio-icons {
-        display:none; 
-    }
     .curiosity-title {
         font-size:1.2em;  
     }
     .curiosity-description {
-        font-size:0.7em;
+        font-size:0.7em; 
     }
     #background-rectangle-2019 {
         margin-top:-30px;
+    }
+}
+@media only screen and (max-width: 468px){
+    #bio-title {
+        margin-top:0px;
+    }
+    #bio-title span{
+        display:table;
+    }
+    .timeline-arrow {
+        width:100px;
+    }
+    .arrow-rectangle {
+        height:50px;
+        width:150px;
+        margin:50px -25px;
+    }
+    .arrow-point {
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+    }
+    .arrow-text {   
+        margin-top:55px;
+        font-size:0.55em;
+    }
+    .bio-box {
+        flex-direction:column;
+    }
+    .why-block {
+        padding:0 10px 5px 10px;
+        width:90%;
     }
 }
 /* Section - Resume */
@@ -807,18 +827,37 @@ nav {
 /* CodeFolio - Media Query*/
 @media only screen and (max-width: 600px){
     #codefolio {
-        margin-top:-150px;
+        margin-top:-160px;
+    }
+    #codefolio-title{
+        margin-top:0px;
     }
     .codefolio-description {
-        margin: 60px 25px 0 60px;
+        margin: 65px 25px 0 60px;
     }
     .column-codefolio {
         width:33vw;
         height:180px;
     }
     .overall-codefolio {
-        margin: 100px 25px 50px 25px;
+        margin: 120px 25px 50px 25px;
     }
+}
+@media only screen and (max-width: 468px){
+    #codefolio-title span{
+        display:table;
+    }
+    .codefolio-description {
+        margin-top: 50px;
+    }
+    .overall-codefolio {
+        margin: 120px 20px 50px 20px;
+    }
+    .column-codefolio {
+        width:40vw;
+        height:180px;
+    }
+
 }
 /* Section - Collaborate*/
 #collaborate-triangle {
@@ -880,7 +919,6 @@ nav {
     text-shadow:1px 0 var(--bio-arrow-color-2019);
 }
 .form-content{
-    background-image: url('./images/geomtric_pattern.jpeg');
     width:400px;
     margin: 25px auto;
 }
@@ -907,6 +945,19 @@ nav {
     margin: 10px 42%;
     font-family: 'Ubuntu', sans-serif;
     text-transform: uppercase;
+}
+@media only screen and (max-width: 468px){
+    .form-content{
+        width:80%;
+    }
+    .form-content input, textarea {
+        width:99%;
+    }
+    .form-content input[type=submit] {
+        padding:5px 20px;
+        margin: 10px auto;
+
+    }
 }
 /* Footer*/
 .overall-footer {
