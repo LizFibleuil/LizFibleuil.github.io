@@ -279,7 +279,7 @@ nav {
 }
     /* Bio - Container*/
 .biographic {
-    border:1px solid black;
+    /*border:1px solid black;*/
     margin-top:110px;
 }
 .bio-year {
@@ -298,11 +298,11 @@ nav {
     color:var(--main-title-color); 
 }
 .bio-container {
-    border: 1px solid blue;
+    /*border: 1px solid blue;*/
     display:flex;
 }
 .what-container {
-    border: 1px solid magenta;
+    /*border: 1px solid magenta;*/
     display:flex;
     justify-content:center;
     align-items:center;
@@ -321,7 +321,7 @@ nav {
 }
         /* TimeLine Arrow */
 .timeline-arrow {
-    border:1px solid crimson;
+    /*border:1px solid crimson;*/
     display:inline-block;
     width:160px;
 }
@@ -352,7 +352,7 @@ nav {
 }
 .bio-box {
     /*background-color:rgba(188,175,34,.2);*/
-    border:1px solid red;
+    /*border:1px solid red;*/
     border-radius:5px;
     display:flex;
     justify-content: flex-start;
@@ -362,7 +362,7 @@ nav {
 }
         /* Why Block */
 .why-block {
-    border:1px solid mediumslateblue;
+    /*border:1px solid mediumslateblue;*/
     width:40%;
     padding:10px;
 }
