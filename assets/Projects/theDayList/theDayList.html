@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liz Fibleuil | Projects</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="../Projects.css">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500&family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/4ad5944614.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div id='body-column'>
+            <!--Header Bar -->
+            <header id='header' class='header'>
+                <nav>
+                <!--Logo-->
+                    <div class='logo-contact'>      
+                        <a href='#contact'>
+                            <img src='../images/Official_Offline Creative Logo.png' alt='Logo for Liz Fibleuil'>
+                        </a>
+                        <a href='#collaborate'>
+                            Let's Collaborate
+                        </a>
+                    </div>
+                <!--Menu-->
+                    <div class='nav-burger'>
+                        <i class="fas fa-bars"></i>
+                    </div>
+                    <div class='nav-links'>
+                        <ul>
+                            <li><a href='../../../index.html'>Home</a></li>
+                            <li><a href=''>CodeTorials</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+            <!-- Project-Introduction Section -->
+            <section class='section-container' id='project-intro'>
+                <div id='project-image-div'>
+                    <img class='project-image' id='profile-pic' src='./images/theDaylist_intro_image.png' alt="Home of DayList Project">
+                    <div class='project-name'id="name">
+                        <h1>The </h1><h1 id='lastname'>DayList</h1>
+                        <h2>HTML & CSS || JavaScript || React</h2>
+                    </div>
+                </div>
+                <div>
+                    
+                    <div id='background-triangle'></div>
+                    <div id='background-rectangle'>
+                        <div id="description">
+                            <a href='http://the-daylist.surge.sh' target='_blank'>Visit The DayList</a>
+                            <br>
+                            <a href='https://github.com/LizFibleuil/theDayList' target='_blank'>GitHub</a>
+                            <p>TheDaylist is a React App that generates work-out routines for the user. The user selects what type of work-out day they would like to plan for. A list of exercises is then shown from where they can pick from and add to their routine. The user can tell how many minutes their workout will take as they add or remove exercises from the list. Finally, the user has the option to save or reset their routine list.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+             <!-- Functionality Section --> 
+            <section class='section-container' id='functionality'>
+                <h3 class="section-title" id="functionality-title">Function<span>ality</span></h3>
+                <div class='functionality-description' id='functionality-description'>
+                    <p>The following is a brief description of how the application works! Follow the steps below and create your own work-out routine.</p>
+                </div>
+                <div class='overall-functionality'>
+                    <div class='column-functionality'>
+                        <img src='./images/the-daylist_step1.png' alt='project-image'>
+                        <h5>Step #1</h5>
+                        <h6>Select what type of workout day it is today by using the radio and search buttons</h6>
+                    </div>
+                    <div class='column-functionality'>
+                        <img src='./images/the-daylist_step2.png' alt='project-image'>
+                        <h5>Step #2</h5>
+                        <h6>List of exercises for that specific type of day will show under the exercise column</h6>
+                    </div>
+                    <div class='column-functionality'>
+                        <img src='./images/the-daylist_step3.png' alt='project-image'>
+                        <h5>Step #3</h5>
+                        <h6>Add or Remove exercises to the Routine Column by clicking on the + and - signs.</h6>
+                    </div>
+                    <div class='column-functionality'>
+                        <img src='./images/the-daylist_step4.png' alt='project-image'>
+                        <h5>Step #4</h5>
+                        <h6>The user can change their routine name and save as a PDF. They can reset the routine as well</h6>
+                    </div>
+                </div>
+                <a href='#header' class='back-anchor'>Back to the top</a>
+            </section>
+             <!-- Structure Section --> 
+             <section class='section-container' id='structure'>
+                <h3 class="section-title" id="structure-title">Project<span>Structure</span></h3>
+                <div class='structure-description' id='structure-description'>
+                    <p>The following is a brief explanation of the code that creates this app. The application is composed of a main component (App.js) that contains several methods that are then passed down to the rendering components. The rendering components branch from each other to create a clear code structure.</p>
+                </div>
+                <div class='structure-diagram'>
+                    <h4>Project Diagram</h4>
+                    <img src='./images/the-daylist_structure-diagram.svg' alt='project-image'>
+                </div>
+                <div class='structure-div'>
+                    <img class='left 'src='./images/the-daylist_app_js.png' alt='project-image'>
+                    <div class='structure-text right'>
+                        <i class="fas fa-code"></i>
+                        <h5 class='structure-title'>App.js</h5>
+                        <p>The App js component contains all the functional aspects of this application. This application is composed of several components which we’ll explore in a few. It is in here where we create the methods that search, add and remove exercises. In its render method, we find the different components that use the App.js state as attributes. It is also in this component where we import the database that supplies the exercises. </p>
+                    </div> 
+                </div>
+                <div class='structure-div'>
+                    <div class='structure-text left'>
+                        <i class="fas fa-search"></i>
+                        <h5 class='structure-title'>SearchBar.js</h5>
+                        <p>In the SearchBar component we render a form with radio buttons that help the user select what kind of work-out day they are trying to plan. It is in this component where we also create a method that takes that radio button selection as an event target. The type of day selection is then passed to the App.js component to define the type of workouts that are to be displayed in the WorkOutResults.js component. </p>
+                    </div>
+                    <img class='right'src='./images/the-daylist_searchbar_js.png' alt='project-image'> 
+                </div>
+                <div class='structure-div'>
+                    <img class='left 'src='./images/the-daylist_workoutresults_js.png' alt='project-image'>
+                    <div class='structure-text right'>
+                        <i class="fas fa-dumbbell"></i>
+                        <h5 class='structure-title'>WorkOutResults.js</h5>
+                        <p>The WorkOutResults.js component is a very simple component in comparison to the rest. This component holds the results of the SearchBar component by rendering a component that displays the selected database. App.js’s workOutResults state is passed down to this component which is then passed down to the ExerciseList component.</p>
+                    </div> 
+                </div>
+                <div class='structure-div'>
+                    <div class='structure-text left'>
+                        <i class="fas fa-list-ul"></i>
+                        <h5 class='structure-title'>RoutineList.js</h5>
+                        <p>The RoutineList.js component showcases the selected exercises from the WorkOutResults.js component. This component contains a lot of different functionalities. It is in here where we change the name of the routine by defining a new state for the App component. The methods created in App. Js to add and remove the exercises are used here as well. Finally, it is in this component that we use a plugin to save the routine list to PDF. This is done by installing React-to-Print via NPM and selecting which part of the code is to be printed. </p>
+                    </div>
+                    <img class='right'src='./images/the-daylist_routinelist_js.png' alt='project-image'> 
+                </div>
+                <div class='structure-div'>
+                    <img class='left 'src='./images/the-daylist_exerciselist_js.png' alt='project-image'>
+                    <div class='structure-text right'>
+                        <i class="fas fa-running"></i>
+                        <h5 class='structure-title'>ExerciseList.js</h5>
+                        <p>The ExerciseList component is used in both the workOutResults and RoutineList component. This component is in charge of rendering the different exercises that are either selected from the SearchBar or by using the addExercise method. The way the component renders the different exercises is by mapping an Exercise component which is in charge of containing each individual exercise. </p>
+                    </div> 
+                </div>
+                <a href='#header' class='back-anchor'>Back to the top</a>
+             </section>
+             <!-- Collaborate Section -->
+             <section class='section-container' id='collaborate'>
+                <h3 class="section-title" id="collaborate-title">Let's <span>Collaborate !</span></h3>
+                <p id='contact-description'>Feel free to get in touch with me. I am always available to discuss new projects, opportunities and collaborations. You can e-mail me or find me in social media. I'll get back to you as soon as I can.</p>
+                <div class='contact'>
+                    <div class='contact-info'>
+                        <h4>liz.fibleuil@gmail.com</h4>    
+                    </div>
+                    <div class='social-media'>
+                        <i class="fab fa-instagram-square"></i></i><a href='https://instagram.com/lizfibleuil/'>@lizfibleuil</a>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Footer -->
+            <footer>
+                <div class='overall-footer'>
+                    <div class='footer-column'>
+                        <h1>Liz </h1><h1>Fibleuil</h1>
+                        <h2>Full-Stack Developer</h2>
+                        <h2>Designer</h2>
+                        <h2>Buildings Architect</h2>
+                    </div>
+                    <div class='footer-column'>
+                        <div class='nav-links-footer'>
+                            <ul>
+                                <li><a href='../../../index.html#bio'>Bio</a></li>
+                                <li><a href='../../../index.html#resume'>Resume</a></li>
+                                <li><a href='../../../index.html#codefolio'>CodeFolio</a></li>
+                                <li><a href=''>CodeTorials</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class='footer-column'>
+                        <a href='#header'>
+                            <img src='../images/Official_Offline Creative Logo_Tan.png' alt='Logo for Liz Fibleuil'>
+                        </a>
+                    </div>
+                </div> 
+            </footer>
+        </div>
+        <!-- Scripts -->
+        <script src="../javascript/burger_menu.js" type="text/javascript"></script>    
+    </body>
+</html>    

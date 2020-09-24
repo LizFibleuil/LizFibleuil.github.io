@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 401.62 278.77" style="enable-background:new 0 0 401.62 278.77;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F1D21B;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:6.0267,6.0267;}
+	.st2{fill:none;}
+	.st3{font-family:'PTSans-Regular';}
+	.st4{font-size:14.0494px;}
+	.st5{fill:#11724B;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#F1D22F;}
+	.st7{fill:#FFFFFF;}
+	.st8{font-size:10px;}
+	.st9{fill:#EDCE7A;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:#EA8F3D;stroke:#000000;stroke-miterlimit:10;}
+	.st11{fill:#D14B15;stroke:#000000;stroke-miterlimit:10;}
+	.st12{fill:#6FBC9F;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M365.52,269.35H34.06c-6.6,0-12-5.4-12-12V23.8c0-6.6,5.4-12,12-12h331.45c6.6,0,12,5.4,12,12v233.55
+		C377.52,263.95,372.12,269.35,365.52,269.35z"/>
+	<path class="st1" d="M365.52,269.35H34.06c-6.6,0-12-5.4-12-12V23.8c0-6.6,5.4-12,12-12h331.45c6.6,0,12,5.4,12,12v233.55
+		C377.52,263.95,372.12,269.35,365.52,269.35z"/>
+</g>
+<rect x="182.69" y="19.78" class="st2" width="34.21" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 182.6875 29.614)" class="st3 st4">App.js</text>
+<path class="st5" d="M316.25,80.59H83.33c-6.6,0-12-5.4-12-12V52.34c0-6.6,5.4-12,12-12h232.92c6.6,0,12,5.4,12,12v16.25
+	C328.25,75.19,322.85,80.59,316.25,80.59z"/>
+<rect x="168.58" y="44.98" class="st2" width="62.41" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 168.5841 54.8129)" class="st6 st3 st4">SearchBar.js</text>
+<rect x="89.34" y="63.72" class="st2" width="59.56" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 89.3375 70.7243)" class="st7 st3 st8">chooseDayType</text>
+<rect x="177.86" y="63.72" class="st2" width="43.86" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 177.8613 70.7239)" class="st7 st3 st8">handleClick</text>
+<rect x="265.91" y="63.72" class="st2" width="43.86" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 265.914 70.7239)" class="st7 st3 st8">render: &lt;&gt;</text>
+<path class="st9" d="M180.45,258.22H51.14c-6.6,0-12-5.4-12-12V103.56c0-6.6,5.4-12,12-12h129.32c6.6,0,12,5.4,12,12v142.66
+	C192.45,252.82,187.05,258.22,180.45,258.22z"/>
+<rect x="68.8" y="97.14" class="st2" width="95.98" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 68.8042 106.9779)" class="st3 st4">WorkOutResults.js</text>
+<path class="st10" d="M170.06,251.46H61.53c-6.6,0-12-5.4-12-12V125.49c0-6.6,5.4-12,12-12h108.52c6.6,0,12,5.4,12,12v113.97
+	C182.06,246.06,176.66,251.46,170.06,251.46z"/>
+<rect x="80.46" y="123.11" class="st2" width="72.68" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 80.4561 132.9494)" class="st3 st4">ExerciseList.js</text>
+<path class="st11" d="M160.67,204.9H70.92c-6.6,0-12-5.4-12-12v-36.4c0-6.6,5.4-12,12-12h89.74c6.6,0,12,5.4,12,12v36.4
+	C172.67,199.5,167.27,204.9,160.67,204.9z"/>
+<rect x="90.01" y="149.09" class="st2" width="53.58" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 90.0075 158.9209)" class="st3 st4">Exercise.js</text>
+<rect x="61.16" y="164.38" class="st2" width="109.51" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 61.1592 171.3831)" class="st3 st8">addExercise / removeExercise</text>
+<rect x="91.49" y="177.11" class="st2" width="48.61" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 91.4892 184.1144)" class="st3 st8">renderAction</text>
+<rect x="94.87" y="189.77" class="st2" width="43.86" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 94.8658 196.7728)" class="st3 st8">render: &lt;&gt;</text>
+<path class="st11" d="M160.67,242.36H70.92c-6.6,0-12-5.4-12-12v-6.2c0-6.6,5.4-12,12-12h89.74c6.6,0,12,5.4,12,12v6.2
+	C172.67,236.96,167.27,242.36,160.67,242.36z"/>
+<rect x="89.12" y="221.65" class="st2" width="53.58" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 89.125 231.4843)" class="st3 st4">Exercise.js</text>
+<path class="st12" d="M350.09,259.37H220.77c-6.6,0-12-5.4-12-12V104.71c0-6.6,5.4-12,12-12h129.32c6.6,0,12,5.4,12,12v142.66
+	C362.09,253.97,356.69,259.37,350.09,259.37z"/>
+<rect x="250.05" y="99.41" class="st2" width="70.76" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 250.0506 109.2483)" class="st3 st4">RoutineList.js</text>
+<path class="st10" d="M339.69,252.61H231.17c-6.6,0-12-5.4-12-12V126.64c0-6.6,5.4-12,12-12h108.52c6.6,0,12,5.4,12,12v113.97
+	C351.69,247.21,346.29,252.61,339.69,252.61z"/>
+<rect x="249.09" y="124.27" class="st2" width="72.68" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 249.0924 134.1035)" class="st3 st4">ExerciseList.js</text>
+<path class="st11" d="M330.3,206.05h-89.74c-6.6,0-12-5.4-12-12v-36.4c0-6.6,5.4-12,12-12h89.74c6.6,0,12,5.4,12,12v36.4
+	C342.3,200.65,336.9,206.05,330.3,206.05z"/>
+<rect x="258.64" y="150.24" class="st2" width="53.58" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 258.6437 160.0751)" class="st3 st4">Exercise.js</text>
+<rect x="231.8" y="165.54" class="st2" width="109.51" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 231.7955 172.5373)" class="st3 st8">addExercise / removeExercise</text>
+<rect x="261.12" y="178.27" class="st2" width="48.61" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 261.1254 185.2686)" class="st3 st8">renderAction</text>
+<rect x="264.5" y="190.93" class="st2" width="43.86" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 264.502 197.927)" class="st3 st8">render: &lt;&gt;</text>
+<path class="st11" d="M330.3,243.52h-89.74c-6.6,0-12-5.4-12-12v-6.2c0-6.6,5.4-12,12-12h89.74c6.6,0,12,5.4,12,12v6.2
+	C342.3,238.12,336.9,243.52,330.3,243.52z"/>
+<rect x="258.64" y="221.9" class="st2" width="53.58" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 258.6437 231.7364)" class="st3 st4">Exercise.js</text>
+</svg>
