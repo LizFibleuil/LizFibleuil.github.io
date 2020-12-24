@@ -343,7 +343,7 @@ nav {
     flex-direction:column;
     /*border:1px solid black;*/
     border-radius:20px;
-    /*margin:10px;*/
+    margin:15px 0;
     width:22vw;
     height:235px;
     
@@ -367,6 +367,33 @@ nav {
     vertical-align: center;
 }
 .column-functionality h6 {
+    padding:0;
+    margin:0;
+    font-size: 0.9em;
+    text-align:center;
+
+}
+.column-functionality-further-steps {
+    display:flex;
+    flex-direction:column;
+    /*border:1px solid black;*/
+    border-radius:20px;
+    margin:15px 0;
+    width:70vw;
+    height:100px;
+    justify-content:center;
+    align-items: center;
+}
+
+.column-functionality-further-steps h5 {
+    padding:0;
+    margin:5px 0 0 0;
+    color:var(--second-title-color);
+    font-size: 1.2em;
+    text-transform: uppercase;
+    vertical-align: center;
+}
+.column-functionality-further-steps h6 {
     padding:0;
     margin:0;
     font-size: 0.9em;
@@ -400,13 +427,18 @@ nav {
     .column-functionality h6 {
         font-size: 0.6em;
     }
+    .column-functionality-further-steps h5 {
+        font-size: 0.9em;
+    }
+    .column-functionality-further-steps h6 {
+        font-size: 0.6em;
+    }
 }
 @media only screen and (max-width: 500px){
     .overall-functionality {
         margin: 0px 20px 50px 20px;
     }
     .column-functionality {
-        width:70vw;
         height:280px;
     }
 
