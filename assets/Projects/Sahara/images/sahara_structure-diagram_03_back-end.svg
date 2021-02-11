@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.6mm" height="116.3mm" viewBox="0 0 367.3 329.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b26044;
+      }
+
+      .cls-2, .cls-25 {
+        fill: none;
+      }
+
+      .cls-14, .cls-2, .cls-25, .cls-5, .cls-6, .cls-9 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 6.01 6.01;
+      }
+
+      .cls-3 {
+        font-size: 14.05px;
+      }
+
+      .cls-12, .cls-3 {
+        font-family: PTSans-Bold, PT Sans;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-5 {
+        fill: #6d3d38;
+      }
+
+      .cls-6 {
+        fill: #ea8f3d;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        fill: #d14b15;
+      }
+
+      .cls-10, .cls-12 {
+        font-size: 8px;
+      }
+
+      .cls-10 {
+        font-family: PTSans-Regular, PT Sans;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-14 {
+        fill: #c44e4b;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-22 {
+        letter-spacing: -0.09em;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <title>sahara_structure-diagram_03_back-end</title>
+  <g id="Structure">
+    <g>
+      <rect class="cls-1" x="0.5" y="0.5" width="366.3" height="328.6" rx="12"/>
+      <rect class="cls-2" x="0.5" y="0.5" width="366.3" height="328.6" rx="12"/>
+    </g>
+    <text class="cls-3" transform="translate(164.2 18.3) scale(0.85 1)">Bac<tspan class="cls-4" x="21.4" y="0">k</tspan><tspan x="27.7" y="0">-End</tspan></text>
+  </g>
+  <g id="Categories">
+    <rect class="cls-5" x="196" y="28.7" width="157.1" height="215.91" rx="12"/>
+    <text class="cls-3" transform="translate(254.2 46.4) scale(0.85 1)">Models</text>
+    <rect class="cls-6" x="24.2" y="27.1" width="157.1" height="281.25" rx="12"/>
+    <text class="cls-3" transform="translate(82.5 44.8) scale(0.85 1)"><tspan class="cls-7">R</tspan><tspan x="7.8" y="0">ou</tspan><tspan class="cls-8" x="22.9" y="0">t</tspan><tspan x="27.7" y="0">ers</tspan></text>
+  </g>
+  <g id="Screens">
+    <rect class="cls-9" x="40.2" y="54.8" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(69.5 83) scale(0.85 1)">Deals with all r<tspan class="cls-11" x="51.8" y="0">e</tspan><tspan x="55.8" y="0">quests </tspan><tspan x="10.2" y="7">r</tspan><tspan class="cls-11" x="12.9" y="7">e</tspan><tspan x="16.9" y="7">garding Orders</tspan></text>
+    <text class="cls-12" transform="translate(79.4 68.8) scale(0.85 1)">ORDER <tspan class="cls-13" x="26.4" y="0">R</tspan><tspan x="30.9" y="0">OUTER</tspan></text>
+    <rect class="cls-14" x="212.8" y="54.8" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(239.6 81) scale(0.85 1)">Defines schema <tspan class="cls-15" x="55.6" y="0">o</tspan><tspan x="59.8" y="0">f Order </tspan><tspan x="-5.4" y="7">database</tspan><tspan class="cls-16" x="25.3" y="7">.</tspan><tspan x="26.4" y="7" xml:space="preserve"> and crea</tspan><tspan class="cls-11" x="57.6" y="7">t</tspan><tspan x="60.3" y="7">es Order </tspan><tspan x="26.5" y="14">database</tspan></text>
+    <text class="cls-12" transform="translate(253.5 68.8) scale(0.85 1)">ORDER MODE<tspan class="cls-17" x="47.5" y="0">L</tspan></text>
+    <rect class="cls-9" x="40.2" y="120.8" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(69.5 148.9) scale(0.85 1)">Deals with all r<tspan class="cls-11" x="51.8" y="0">e</tspan><tspan x="55.8" y="0">quests </tspan><tspan x="6.8" y="7">r</tspan><tspan class="cls-11" x="9.5" y="7">e</tspan><tspan x="13.4" y="7">garding </tspan><tspan class="cls-18" x="41.7" y="7">P</tspan><tspan x="45.9" y="7">roducts</tspan></text>
+    <text class="cls-12" transform="translate(75.7 134.7) scale(0.85 1)">P<tspan class="cls-13" x="4.6" y="0">R</tspan><tspan x="9.1" y="0">ODU</tspan><tspan class="cls-19" x="24.7" y="0">C</tspan><tspan class="cls-20" x="28.8" y="0">T</tspan><tspan x="33" y="0"> </tspan><tspan class="cls-13" x="35" y="0">R</tspan><tspan x="39.6" y="0">OUTER</tspan></text>
+    <rect class="cls-14" x="212.8" y="120.8" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(236.6 146.9) scale(0.85 1)">Defines schema <tspan class="cls-15" x="55.6" y="0">o</tspan><tspan x="59.8" y="0">f </tspan><tspan class="cls-18" x="64.5" y="0">P</tspan><tspan x="68.6" y="0">roduct </tspan><tspan x="8.7" y="7">database</tspan><tspan class="cls-16" x="39.4" y="7">.</tspan><tspan x="40.5" y="7" xml:space="preserve"> and crea</tspan><tspan class="cls-11" x="71.8" y="7">t</tspan><tspan x="74.4" y="7">es </tspan><tspan class="cls-18" x="15.8" y="14">P</tspan><tspan x="20" y="14">roduct database</tspan></text>
+    <text class="cls-12" transform="translate(249.8 134.7) scale(0.85 1)">P<tspan class="cls-13" x="4.6" y="0">R</tspan><tspan x="9.1" y="0">ODU</tspan><tspan class="cls-19" x="24.7" y="0">C</tspan><tspan class="cls-20" x="28.8" y="0">T</tspan><tspan x="33" y="0" xml:space="preserve"> MODE</tspan><tspan class="cls-17" x="56.2" y="0">L</tspan></text>
+    <rect class="cls-9" x="40.2" y="185" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(69.5 213.1) scale(0.85 1)">Deals with all r<tspan class="cls-11" x="51.8" y="0">e</tspan><tspan x="55.8" y="0">quests </tspan><tspan x="12.1" y="7">r</tspan><tspan class="cls-11" x="14.9" y="7">e</tspan><tspan x="18.8" y="7">garding Users</tspan></text>
+    <text class="cls-12" transform="translate(82 198.9) scale(0.85 1)">USER <tspan class="cls-13" x="20.3" y="0">R</tspan><tspan x="24.8" y="0">OUTER</tspan></text>
+    <rect class="cls-14" x="212.8" y="185" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(241.2 211.1) scale(0.85 1)">Defines schema <tspan class="cls-15" x="55.6" y="0">o</tspan><tspan x="59.8" y="0">f User </tspan><tspan x="-5.4" y="7">database</tspan><tspan class="cls-16" x="25.3" y="7">.</tspan><tspan x="26.4" y="7" xml:space="preserve"> and crea</tspan><tspan class="cls-11" x="57.6" y="7">t</tspan><tspan x="60.3" y="7">es User </tspan><tspan x="24.6" y="14">database</tspan></text>
+    <text class="cls-12" transform="translate(256.1 198.9) scale(0.85 1)">USER MODE<tspan class="cls-17" x="41.4" y="0">L</tspan></text>
+    <rect class="cls-9" x="39.6" y="244.6" width="124" height="48.07" rx="12"/>
+    <text class="cls-10" transform="translate(60.6 272.8) scale(0.85 1)">Deals with image uploads <tspan class="cls-11" x="90.5" y="0">t</tspan><tspan x="93.1" y="0">o </tspan><tspan x="20.7" y="7">the Dis</tspan><tspan class="cls-21" x="44.8" y="7">k</tspan><tspan x="48.3" y="7" xml:space="preserve"> S</tspan><tspan class="cls-11" x="54.7" y="7">t</tspan><tspan x="57.3" y="7">orage</tspan></text>
+    <text class="cls-12" transform="translate(77.2 258.6) scale(0.85 1)">UP<tspan class="cls-22" x="9.6" y="0">L</tspan><tspan class="cls-23" x="13" y="0">O</tspan><tspan x="18.1" y="0">A</tspan><tspan class="cls-24" x="22.9" y="0">D</tspan><tspan x="28" y="0"> </tspan><tspan class="cls-13" x="30" y="0">R</tspan><tspan x="34.6" y="0">OUTER</tspan></text>
+  </g>
+  <g id="Arrows">
+    <g>
+      <line class="cls-25" x1="222.6" y1="78.9" x2="151.7" y2="78.9"/>
+      <path d="M222.4,75.1a3.8,3.8,0,1,1,0,7.5,3.8,3.8,0,0,1,0-7.5Z"/>
+      <polygon points="153.2 73.9 144.5 78.9 153.2 83.9 153.2 73.9"/>
+    </g>
+    <g>
+      <line class="cls-25" x1="224.1" y1="144.8" x2="153.2" y2="144.8"/>
+      <path d="M223.9,141.1a3.8,3.8,0,1,1-3.8,3.7A3.8,3.8,0,0,1,223.9,141.1Z"/>
+      <polygon points="154.6 139.8 146 144.8 154.6 149.8 154.6 139.8"/>
+    </g>
+    <g>
+      <line class="cls-25" x1="225.1" y1="210.1" x2="154.1" y2="210.1"/>
+      <path d="M224.9,206.3a3.8,3.8,0,1,1-3.8,3.8A3.8,3.8,0,0,1,224.9,206.3Z"/>
+      <polygon points="155.6 205.1 147 210.1 155.6 215 155.6 205.1"/>
+    </g>
+  </g>
+</svg>

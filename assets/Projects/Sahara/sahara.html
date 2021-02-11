@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liz Fibleuil | Projects</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="../Projects.css">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500&family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/4ad5944614.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div id='body-column'>
+            <!--Header Bar -->
+            <header id='header' class='header'>
+                <nav>
+                <!--Logo-->
+                    <div class='logo-contact'>      
+                        <a href='#contact'>
+                            <img src='../images/Official_Offline Creative Logo.png' alt='Logo for Liz Fibleuil'>
+                        </a>
+                        <a href='#collaborate'>
+                            Let's Collaborate
+                        </a>
+                    </div>
+                <!--Menu-->
+                    <div class='nav-burger'>
+                        <i class="fas fa-bars"></i>
+                    </div>
+                    <div class='nav-links'>
+                        <ul>
+                            <li><a href='../../../index.html'>Home</a></li>
+                            <li><a href=''>CodeTorials</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+            <!-- Project-Introduction Section -->
+            <section class='section-container' id='project-intro'>
+                <div id='project-image-div'>
+                    <img class='project-image' id='profile-pic' src='./images/sahara_intro_image.png' alt="Home of Seeking Adventure Project">
+                    <div class='project-name'id="name">
+                        <h1>Sahara </h1><h1 id='lastname'>Store</h1>
+                        <h2>JavaScript || Express || MongoDB || Node</h2>
+                    </div>
+                </div>
+                <div>
+                    
+                    <div id='background-triangle'></div>
+                    <div id='background-rectangle'>
+                        <div id="description">
+                            <a href='https://sahara-store-app.herokuapp.com/#/' target='_blank'>Visit the Sahara Store</a>
+                            <br>
+                            <a href='https://github.com/LizFibleuil/Sahara' target='_blank'>GitHub</a>
+                            <p>The Sahara Store is an e-commerce website where you can quench your thirst by buying a great water bottle. In this exercise, I use vanilla JavaScript to implement different screens, functionalities and interactions rather than using React or another framework. **Notice that images do not show due to Heroku's free Dyno policy to delete all stored files after 30mins. If you would like to see website with images, do not hesitate to contact me.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+             <!-- Functionality Section --> 
+            <section class='section-container' id='functionality'>
+                <h3 class="section-title" id="functionality-title">Function<span>ality</span></h3>
+                <div class='functionality-description' id='functionality-description'>
+                    <p>The following is a brief description of how the application works! Follow the steps below and get your new item!</p>
+                </div>
+                <div class='overall-functionality'>
+                    <div class='column-functionality'>
+                        <img src='./images/sahara_step1.png' alt='project-image'>
+                        <h5>Step #1</h5>
+                        <h6>Check all the different items that are available for purchase.</h6>
+                    </div>
+                    <div class='column-functionality'>
+                        <img src='./images/sahara_step2.png' alt='project-image'>
+                        <h5>Step #2</h5>
+                        <h6>Add your the items to the cart and modify the quantity.</h6>
+                    </div>
+                    <div class='column-functionality'>
+                        <img src='./images/sahara_step3.png' alt='project-image'>
+                        <h5>Step #3</h5>
+                        <h6>Place your order and select your payment type and shipping address.</h6>
+                    </div>
+                    <div class='column-functionality'>
+                        <img src='./images/sahara_step4.png' alt='project-image'>
+                        <h5>Step #4</h5>
+                        <h6>As and Admin User, review the placed orders, update and create products.</h6>
+                    </div>
+                    <div class='column-functionality-further-steps'> 
+                        <h5>Further Steps</h5>
+                        <h6>New users can be created, and their profile updated as required. Orders for each user can be retrieved and modified to change their status.</h6>
+                    </div>
+                </div>
+                <a href='#header' class='back-anchor'>Back to the top</a>
+            </section>
+             <!-- Structure Section --> 
+             <section class='section-container' id='structure'>
+                <h3 class="section-title" id="structure-title">Project<span>Structure</span></h3>
+                <div class='structure-description' id='structure-description'>
+                    <p>The following is a set of diagrams that help explain how the Sahara store is being coded. The website is composed of a both of a front-end and a back-end. The front-end is created by using HTML, CSS and plain JavaScript, while the back-end uses Node, Express and MongoDB. There are three different databases that feed information to the front-end: The User, Order and Product database.</p>
+                </div>
+                <div class='structure-diagram'>
+                    <h4>Project Diagram</h4>
+                    <img src='./images/sahara_structure-diagram_structure.svg' alt='project-image'>
+                    <div class='structure-text w75'>
+                        <p>The Sahara Store has a Front-End and a Back-End connected by an API file. The Main.js file within the Front-End portion contains all the functionalities and screens that are rendered on the browser. I’ll further explain this file below.</p>
+                        <p>On the other hand, the Back-End is composed of the Server.js file that contains the paths from which the API file gathers the information that the user is looking for. Some requests require the type of user to be identified and authenticated. Those types of methods are found in the Utils file and then brought into the Server’s file REST requests.</p>
+                        <p>An environment file is also created to hold important information in the form of variables that are then used in the Server file. These variables contain information regarding the MongoDB databases, the Paypal client and the token generation for each User that is used for authorization.</p>
+                    </div>
+                </div>
+                <div class='structure-diagram'>
+                    <img src='./images/sahara_structure-diagram_02_front-end.svg' alt='project-image'>
+                    <div class='structure-text w75'>
+                        <i class="fas fa-code"></i>
+                        <h5 class='structure-title'>Front-End</h5>
+                        <p>The Front-End contains two main types of files: Components and Screens. Components are JavaScript files that provide support to the Screen files by containing code that render items within the Screens. The Screens are JavaScript files that render, like their name says, the screens that each user goes through by using the e-commerce website.</p>
+                        <p>There are three different types of Screens that represent the different uses that they render. Product screens are those that display the different products that the user can use as well as the screens where you can place an order. User screens are those where you can create a new profile as well as update the current profile. Finally, the Dashboard screens are only available to administrator users. These screens showcase the different placed orders, the current items and the status of the databases.</p>
+                        <p>Every time the user wants to purchase the items in their cart, the screens take that user through the different steps of placing the order. It is during this process, where the application authorizes the user account, requests the user’s shipping information and takes the user to the Paypal payment window.</p>
+                    </div> 
+                </div>
+                <div class='structure-diagram'>
+                    <img src='./images/sahara_structure-diagram_03_back-end.svg' alt='project-image'>
+                    <div class='structure-text w75'>
+                        <i class="fas fa-code"></i>
+                        <h5 class='structure-title'>Back-End</h5>
+                        <p>The Back-End contains both Routers and Models. Each model defines the schema and creates a database in MongoDB. Three different databases are created and these correspond to the Routers that contain the REST responses that deal with ther requests from the Front-End.</p>
+                    </div> 
+                </div>
+                <a href='#header' class='back-anchor'>Back to the top</a>
+             </section>
+             <!-- Collaborate Section -->
+             <section class='section-container' id='collaborate'>
+                <h3 class="section-title" id="collaborate-title">Let's <span>Collaborate !</span></h3>
+                <p id='contact-description'>Feel free to get in touch with me. I am always available to discuss new projects, opportunities and collaborations. You can e-mail me or find me in social media. I'll get back to you as soon as I can.</p>
+                <div class='contact'>
+                    <div class='contact-info'>
+                        <h4>liz.fibleuil@gmail.com</h4>    
+                    </div>
+                    <div class='social-media'>
+                        <i class="fab fa-instagram-square"></i></i><a href='https://instagram.com/lizfibleuil/'>@lizfibleuil</a>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Footer -->
+            <footer>
+                <div class='overall-footer'>
+                    <div class='footer-column'>
+                        <h1>Liz </h1><h1>Fibleuil</h1>
+                        <h2>Full-Stack Developer</h2>
+                        <h2>Designer</h2>
+                        <h2>Buildings Architect</h2>
+                    </div>
+                    <div class='footer-column'>
+                        <div class='nav-links-footer'>
+                            <ul>
+                                <li><a href='../../../index.html#bio'>Bio</a></li>
+                                <li><a href='../../../index.html#resume'>Resume</a></li>
+                                <li><a href='../../../index.html#codefolio'>CodeFolio</a></li>
+                                <li><a href=''>CodeTorials</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class='footer-column'>
+                        <a href='#header'>
+                            <img src='../images/Official_Offline Creative Logo_Tan.png' alt='Logo for Liz Fibleuil'>
+                        </a>
+                    </div>
+                </div> 
+            </footer>
+        </div>
+        <!-- Scripts -->
+        <script src="../javascript/burger_menu.js" type="text/javascript"></script>    
+    </body>
+</html>    

@@ -524,6 +524,11 @@ nav {
 .right {
     float:right;
 }
+.w75 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 80vw;
+}
 @media only screen and (max-width: 1000px){
     .structure-div {
         flex-direction: column;

@@ -1,0 +1,303 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.6mm" height="91.2mm" viewBox="0 0 367.3 258.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1d21b;
+      }
+
+      .cls-2, .cls-49 {
+        fill: none;
+      }
+
+      .cls-12, .cls-13, .cls-2, .cls-28, .cls-29, .cls-30, .cls-31, .cls-37, .cls-4, .cls-49, .cls-5, .cls-8, .cls-9 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 6.02 6.02;
+      }
+
+      .cls-3 {
+        font-size: 14.05px;
+      }
+
+      .cls-10, .cls-3 {
+        font-family: PTSans-Bold, PT Sans;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #b29d46;
+      }
+
+      .cls-5 {
+        fill: #b26044;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-8 {
+        fill: #edce7a;
+      }
+
+      .cls-9 {
+        fill: #a7af45;
+      }
+
+      .cls-10 {
+        font-size: 10px;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-12 {
+        fill: #d3c562;
+      }
+
+      .cls-13 {
+        fill: #d39448;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-15 {
+        font-size: 8px;
+      }
+
+      .cls-15, .cls-25, .cls-26, .cls-27 {
+        font-family: PTSans-Regular, PT Sans;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-17, .cls-25 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0.06em;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-24 {
+        font-family: PTSans-Italic, PT Sans;
+        font-style: italic;
+      }
+
+      .cls-25, .cls-26, .cls-27 {
+        font-style: normal;
+      }
+
+      .cls-27 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-28 {
+        fill: #d14b15;
+      }
+
+      .cls-29 {
+        fill: #ea8f3d;
+      }
+
+      .cls-30 {
+        fill: #6d3d38;
+      }
+
+      .cls-31 {
+        fill: #896349;
+      }
+
+      .cls-32 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-33 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-34 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-35 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-36 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-37 {
+        fill: #c44e4b;
+      }
+
+      .cls-38 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-39 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-40 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-41 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-42 {
+        letter-spacing: -0.13em;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-45 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-46 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-47 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-48 {
+        letter-spacing: -0.02em;
+      }
+    </style>
+  </defs>
+  <title>sahara_structure-diagram_structure</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" x="0.5" y="0.5" width="366.3" height="257.55" rx="12"/>
+      <rect class="cls-2" x="0.5" y="0.5" width="366.3" height="257.55" rx="12"/>
+    </g>
+    <text class="cls-3" transform="translate(166.2 18.3) scale(0.85 1)">Sahara</text>
+    <rect class="cls-4" x="18.4" y="30" width="151.6" height="209.68" rx="12"/>
+    <rect class="cls-5" x="198.4" y="28.7" width="154.7" height="211.01" rx="12"/>
+    <text class="cls-3" transform="translate(254 46.4) scale(0.85 1)">Bac<tspan class="cls-6" x="21.4" y="0">k</tspan><tspan x="27.7" y="0">-End</tspan></text>
+    <text class="cls-3" transform="translate(66 46.4) scale(0.85 1)">Fron<tspan class="cls-7" x="27.3" y="0">t</tspan><tspan x="31.9" y="0">-End</tspan></text>
+    <rect class="cls-8" x="151.4" y="162.5" width="58.8" height="39.17" rx="12"/>
+    <text class="cls-3" transform="translate(166.5 187.3) scale(0.85 1)">Api.js</text>
+  </g>
+  <g id="Front-End">
+    <rect class="cls-9" x="28" y="102.3" width="114.5" height="82.71" rx="12"/>
+    <text class="cls-10" transform="translate(65.2 115.2) scale(0.85 1)">ind<tspan class="cls-11" x="13.5" y="0">e</tspan><tspan x="18.4" y="0">x.html</tspan></text>
+    <rect class="cls-12" x="51.2" y="189.1" width="91.3" height="45.55" rx="12"/>
+    <rect class="cls-13" x="28" y="51.8" width="91.3" height="45.55" rx="12"/>
+    <text class="cls-10" transform="translate(57.6 65.2) scale(0.85 1)">s<tspan class="cls-14" x="4.2" y="0">t</tspan><tspan x="7.5" y="0">yle.css</tspan></text>
+    <text class="cls-10" transform="translate(84.2 200.8) scale(0.85 1)">main.js</text>
+    <text class="cls-15" transform="translate(64.4 214.1) scale(0.85 1)">All JS files in sr<tspan class="cls-16" x="51.2" y="0">c</tspan><tspan x="54.6" y="0"> </tspan><tspan class="cls-17" x="56.7" y="0">f</tspan><tspan x="59.2" y="0">older </tspan><tspan class="cls-18" x="2" y="9.6">c</tspan><tspan x="5.4" y="9.6">ompiled </tspan><tspan class="cls-19" x="35.5" y="9.6">b</tspan><tspan class="cls-20" x="39.7" y="9.6">y</tspan><tspan x="43.1" y="9.6"> </tspan><tspan class="cls-17" x="45.3" y="9.6">w</tspan><tspan x="51.1" y="9.6">ebpac</tspan><tspan class="cls-21" x="71.3" y="9.6">k</tspan></text>
+    <text class="cls-15" transform="translate(40.7 122.1) scale(0.85 1)"><tspan class="cls-22">..<tspan class="cls-23" x="4.5" y="0">.</tspan></tspan><tspan x="0" y="9.6">&lt;body&gt;</tspan><tspan x="0" y="19.2">-loading page</tspan><tspan x="0" y="28.8">-main: </tspan><tspan class="cls-24" x="23.8" y="28.8">where all screens render</tspan><tspan class="cls-24"><tspan x="0" y="38.4">-</tspan><tspan class="cls-25" x="2.7" y="38.4">f</tspan><tspan class="cls-26" x="5.2" y="38.4">oo</tspan><tspan class="cls-27" x="13.8" y="38.4">t</tspan><tspan class="cls-26" x="16.4" y="38.4">er</tspan></tspan><tspan x="0" y="48">&lt;/body&gt;</tspan><tspan class="cls-22"><tspan x="0" y="57.6">..</tspan><tspan class="cls-23" x="4.5" y="57.6">.</tspan></tspan></text>
+    <rect class="cls-28" x="205.5" y="95.6" width="102" height="56.43" rx="12"/>
+    <rect class="cls-29" x="210.3" y="51.1" width="76.3" height="41.65" rx="12"/>
+    <rect class="cls-30" x="269.9" y="156" width="75.3" height="41.58" rx="12"/>
+    <rect class="cls-31" x="214.5" y="199.6" width="75.3" height="34.2" rx="12"/>
+    <text class="cls-10" transform="translate(240.1 105.5) scale(0.85 1)">ser<tspan class="cls-32" x="12.8" y="0">v</tspan><tspan x="17.5" y="0">e</tspan><tspan class="cls-33" x="22.6" y="0">r</tspan><tspan x="25.5" y="0">.js</tspan></text>
+    <text class="cls-10" transform="translate(294.4 165) scale(0.85 1)"><tspan class="cls-34">R</tspan><tspan x="5.5" y="0">ou</tspan><tspan class="cls-35" x="16.3" y="0">t</tspan><tspan x="19.7" y="0">ers</tspan></text>
+    <text class="cls-10" transform="translate(233.9 61.8) scale(0.85 1)"><tspan class="cls-36">c</tspan><tspan x="4.2" y="0">onfig.js</tspan></text>
+    <rect class="cls-37" x="310.6" y="34.6" width="51.7" height="41.94" rx="12"/>
+    <text class="cls-10" transform="translate(327.7 45.6) scale(0.85 1)">.en<tspan class="cls-20" x="13" y="0">v</tspan></text>
+    <text class="cls-15" transform="translate(325.6 53.6) scale(0.85 1)">Defines <tspan x="-16" y="7">individual enviro </tspan><tspan x="-2.7" y="14">variables</tspan></text>
+    <text class="cls-15" transform="translate(224.2 71.9) scale(0.85 1)">Defines<tspan class="cls-38" x="25.4" y="0"> </tspan><tspan x="27.4" y="0">variables </tspan><tspan x="-2.6" y="7">li</tspan><tspan class="cls-19" x="1.8" y="7">k</tspan><tspan x="5.6" y="7">e Mong</tspan><tspan class="cls-19" x="31.1" y="7">o</tspan><tspan class="cls-39" x="35.2" y="7">,</tspan><tspan x="36.2" y="7"> </tspan><tspan class="cls-40" x="38.3" y="7">P</tspan><tspan x="42.5" y="7">aypal </tspan><tspan x="4.9" y="14">and</tspan><tspan class="cls-41" x="17.6" y="14"> </tspan><tspan class="cls-42" x="19.4" y="14">T</tspan><tspan class="cls-43" x="22.9" y="14">o</tspan><tspan class="cls-19" x="27.1" y="14">k</tspan><tspan x="30.9" y="14">en </tspan><tspan class="cls-44" x="41.5" y="14">K</tspan><tspan class="cls-45" x="46" y="14">e</tspan><tspan class="cls-20" x="49.8" y="14">y</tspan></text>
+    <text class="cls-10" transform="translate(240.9 209.6) scale(0.85 1)">utils.js</text>
+    <text class="cls-15" transform="translate(218.4 115.8) scale(0.85 1)">-<tspan class="cls-18" x="2.9" y="0">e</tspan><tspan x="6.8" y="0">xpress</tspan><tspan x="6" y="7">-</tspan><tspan class="cls-18" x="8.9" y="7">c</tspan><tspan x="12.3" y="7">ors</tspan><tspan x="-4.8" y="14">-mongoose</tspan><tspan x="-7.4" y="21">-body-parser</tspan><tspan x="5.2" y="28">-path</tspan></text>
+    <text class="cls-15" transform="translate(268.5 114.6) scale(0.85 1)"><tspan class="cls-18">c</tspan><tspan x="3.4" y="0">ontains </tspan><tspan x="-4.1" y="7">paths from </tspan><tspan x="-2.9" y="14">where</tspan><tspan class="cls-46" x="18.2" y="14"> </tspan><tspan x="20.1" y="14">API </tspan><tspan x="-0.1" y="21">r</tspan><tspan class="cls-17" x="2.6" y="21">e</tspan><tspan x="6.6" y="21">quests </tspan><tspan x="7.7" y="28">in</tspan><tspan class="cls-17" x="14.2" y="28">f</tspan><tspan x="16.7" y="28">o</tspan></text>
+    <text class="cls-15" transform="translate(290 172.9) scale(0.85 1)">-order<tspan class="cls-44" x="21" y="0">R</tspan><tspan x="25.4" y="0">ou</tspan><tspan class="cls-17" x="34" y="0">t</tspan><tspan x="36.6" y="0">er</tspan><tspan x="-4.1" y="7">-product</tspan><tspan class="cls-44" x="25.1" y="7">R</tspan><tspan x="29.4" y="7">ou</tspan><tspan class="cls-17" x="38" y="7">t</tspan><tspan x="40.7" y="7">er</tspan><tspan x="1.8" y="14">-user</tspan><tspan class="cls-44" x="19.2" y="14">R</tspan><tspan x="23.5" y="14">ou</tspan><tspan class="cls-17" x="32.1" y="14">t</tspan><tspan x="34.8" y="14">er</tspan><tspan x="-2.7" y="21">-upload</tspan><tspan class="cls-44" x="23.7" y="21">R</tspan><tspan x="28.1" y="21">ou</tspan><tspan class="cls-17" x="36.7" y="21">t</tspan><tspan x="39.3" y="21">er</tspan></text>
+    <text class="cls-15" transform="translate(220.2 216.6) scale(0.85 1)">methods that crea<tspan class="cls-17" x="62" y="0">t</tspan><tspan x="64.6" y="0">e a </tspan><tspan class="cls-17" x="6.9" y="7">t</tspan><tspan x="9.5" y="7">o</tspan><tspan class="cls-19" x="13.8" y="7">k</tspan><tspan x="17.5" y="7">en &amp;</tspan><tspan class="cls-47" x="34.6" y="7"> </tspan><tspan class="cls-17" x="36.6" y="7">v</tspan><tspan x="40.4" y="7">erifies if </tspan><tspan x="7.1" y="14">user is authori</tspan><tspan class="cls-48" x="55.9" y="14">z</tspan><tspan x="59.3" y="14">ed</tspan></text>
+  </g>
+  <g id="Arrows">
+    <g>
+      <line class="cls-49" x1="51.2" y1="91.9" x2="51.2" y2="106.2"/>
+      <path d="M63.7,103.4a3.8,3.8,0,1,1,7.5,0,3.8,3.8,0,0,1-7.5,0Z" transform="translate(-16.3 -11.3)"/>
+      <polygon points="46.2 104.7 51.2 113.3 56.2 104.7 46.2 104.7"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="73.6" y1="198.1" x2="73.6" y2="180.8"/>
+      <path d="M93.7,209.2a3.8,3.8,0,1,1-3.8-3.8A3.8,3.8,0,0,1,93.7,209.2Z" transform="translate(-16.3 -11.3)"/>
+      <polygon points="78.6 182.3 73.6 173.6 68.6 182.3 78.6 182.3"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="162.9" y1="214.3" x2="144.1" y2="214.3"/>
+      <polygon points="145.6 209.3 137 214.3 145.6 219.3 145.6 209.3"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="162.9" y1="196.2" x2="162.9" y2="214.8"/>
+      <path d="M175.4,207.7a3.8,3.8,0,0,1,7.5,0,3.8,3.8,0,1,1-7.5,0Z" transform="translate(-16.3 -11.3)"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="202.4" y1="173.6" x2="223.7" y2="173.6"/>
+      <path d="M218.9,188.7a3.8,3.8,0,0,1-3.8-3.8,3.8,3.8,0,0,1,7.6,0A3.8,3.8,0,0,1,218.9,188.7Z" transform="translate(-16.3 -11.3)"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="223.3" y1="173.9" x2="223.3" y2="153.2"/>
+      <polygon points="228.3 154.6 223.3 146 218.3 154.6 228.3 154.6"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="315.9" y1="67" x2="282.1" y2="67"/>
+      <path d="M332,74.6a3.8,3.8,0,1,1,0,7.5,3.8,3.8,0,0,1,0-7.5Z" transform="translate(-16.3 -11.3)"/>
+      <polygon points="283.5 62 274.9 67 283.5 72 283.5 62"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="222.3" y1="86.4" x2="222.3" y2="100.6"/>
+      <path d="M234.8,97.9a3.8,3.8,0,1,1,7.5,0,3.8,3.8,0,0,1-7.5,0Z" transform="translate(-16.3 -11.3)"/>
+      <polygon points="217.3 99.2 222.3 107.8 227.3 99.2 217.3 99.2"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="333.7" y1="160.9" x2="333.7" y2="132.7"/>
+      <path d="M353.8,172a3.8,3.8,0,1,1-3.8-3.8A3.8,3.8,0,0,1,353.8,172Z" transform="translate(-16.3 -11.3)"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="334.2" y1="133.1" x2="303.3" y2="133.1"/>
+      <polygon points="304.7 128.1 296.1 133.1 304.7 138.1 304.7 128.1"/>
+    </g>
+    <g>
+      <line class="cls-49" x1="240.9" y1="200.2" x2="240.9" y2="152.9"/>
+      <path d="M261,211.3a3.8,3.8,0,1,1-3.8-3.8A3.8,3.8,0,0,1,261,211.3Z" transform="translate(-16.3 -11.3)"/>
+      <polygon points="245.9 154.4 240.9 145.7 235.9 154.4 245.9 154.4"/>
+    </g>
+  </g>
+</svg>

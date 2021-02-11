@@ -1,0 +1,354 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.6mm" height="182.9mm" viewBox="0 0 367.3 518.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b29d46;
+      }
+
+      .cls-2, .cls-51 {
+        fill: none;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-2, .cls-30, .cls-37, .cls-48, .cls-5, .cls-51, .cls-6, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-12, .cls-14, .cls-2, .cls-30, .cls-37, .cls-48, .cls-5, .cls-51, .cls-6, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 5.98 5.98;
+      }
+
+      .cls-3 {
+        font-size: 14.05px;
+      }
+
+      .cls-21, .cls-3 {
+        font-family: PTSans-Bold, PT Sans;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-5 {
+        fill: #edc624;
+      }
+
+      .cls-6 {
+        fill: #b26044;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-9 {
+        fill: #ea8f3d;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        fill: #a7af45;
+      }
+
+      .cls-13 {
+        fill: #edce7a;
+        stroke-miterlimit: 3;
+      }
+
+      .cls-14 {
+        fill: #c44e4b;
+      }
+
+      .cls-15, .cls-21 {
+        font-size: 8px;
+      }
+
+      .cls-15 {
+        font-family: PTSans-Regular, PT Sans;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-22 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-25 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-26 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-27 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-28 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-29 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-30 {
+        fill: #d14b15;
+      }
+
+      .cls-31 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-32 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-33 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-34 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-35 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-36 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-37 {
+        fill: #c16242;
+      }
+
+      .cls-38 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-39 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-40 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-41 {
+        letter-spacing: -0.09em;
+      }
+
+      .cls-42 {
+        letter-spacing: 0em;
+      }
+
+      .cls-43 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-44 {
+        letter-spacing: -0.12em;
+      }
+
+      .cls-45 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-46 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-47 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-48 {
+        fill: #d3c562;
+      }
+
+      .cls-49 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-50 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <title>sahara_structure-diagram_02_front-end</title>
+  <g id="Structure">
+    <g>
+      <rect class="cls-1" x="0.5" y="0.5" width="366.3" height="517.53" rx="12"/>
+      <rect class="cls-2" x="0.5" y="0.5" width="366.3" height="517.53" rx="12"/>
+    </g>
+    <text class="cls-3" transform="translate(161.2 18.3) scale(0.85 1)">Fron<tspan class="cls-4" x="27.3" y="0">t</tspan><tspan x="31.9" y="0">-End</tspan></text>
+  </g>
+  <g id="Categories">
+    <rect class="cls-5" x="18.4" y="30" width="112.9" height="79.48" rx="12"/>
+    <rect class="cls-6" x="139.1" y="28.7" width="214" height="80.82" rx="12"/>
+    <text class="cls-3" transform="translate(216.1 46.4) scale(0.85 1)">User Scr<tspan class="cls-7" x="48.8" y="0">e</tspan><tspan x="55.9" y="0">ens</tspan></text>
+    <text class="cls-3" transform="translate(42 46.4) scale(0.85 1)"><tspan class="cls-8">C</tspan><tspan x="7.3" y="0">omponents</tspan></text>
+    <rect class="cls-9" x="18.9" y="121.6" width="334.2" height="216.67" rx="12"/>
+    <text class="cls-3" transform="translate(148 141.8) scale(0.85 1)"><tspan class="cls-10">P</tspan><tspan x="7.6" y="0">roduct Scr</tspan><tspan class="cls-11" x="68.2" y="0">e</tspan><tspan x="75.3" y="0">ens</tspan></text>
+    <rect class="cls-12" x="84" y="353.5" width="203.3" height="149.56" rx="12"/>
+    <text class="cls-3" transform="translate(140 377.5) scale(0.85 1)">Dashboard Scr<tspan class="cls-11" x="86.2" y="0">e</tspan><tspan x="93.3" y="0">ens</tspan></text>
+  </g>
+  <g id="Screens">
+    <rect class="cls-13" x="35.1" y="56.7" width="81.4" height="9.73" rx="4.9"/>
+    <rect class="cls-14" x="150" y="54.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(156.4 83) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan class="cls-17" x="5.4" y="0"> </tspan><tspan x="7.3" y="0">Adds user </tspan><tspan class="cls-18" x="42.7" y="0">t</tspan><tspan x="45.3" y="0">o database</tspan><tspan x="5.2" y="7">2</tspan><tspan class="cls-16" x="9.6" y="7">.</tspan><tspan x="10.7" y="7" xml:space="preserve"> Uses </tspan><tspan class="cls-19" x="31" y="7">L</tspan><tspan x="34.6" y="7">ocal S</tspan><tspan class="cls-20" x="55.2" y="7">t</tspan><tspan x="57.9" y="7">orage</tspan></text>
+    <text class="cls-21" transform="translate(164.7 68.8) scale(0.85 1)">REGISTER SCREEN</text>
+    <rect class="cls-14" x="257.1" y="54.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(261.1 82) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Upda</tspan><tspan class="cls-20" x="25.4" y="0">t</tspan><tspan x="28" y="0">es sp</tspan><tspan class="cls-18" x="45.3" y="0">e</tspan><tspan x="49.3" y="0">cifi</tspan><tspan class="cls-22" x="59.3" y="0">c</tspan><tspan x="62.8" y="0" xml:space="preserve"> user in </tspan><tspan x="28.7" y="7">database</tspan><tspan x="8" y="14">2</tspan><tspan class="cls-16" x="12.4" y="14">.</tspan><tspan x="13.5" y="14" xml:space="preserve"> Uses </tspan><tspan class="cls-19" x="33.8" y="14">L</tspan><tspan x="37.4" y="14">ocal S</tspan><tspan class="cls-20" x="58" y="14">t</tspan><tspan x="60.6" y="14">orage</tspan></text>
+    <text class="cls-21" transform="translate(273.9 68.8) scale(0.85 1)">P<tspan class="cls-23" x="4.6" y="0">R</tspan><tspan x="9.1" y="0">OFILE SCREEN</tspan></text>
+    <text class="cls-21" transform="translate(63.9 64.5) scale(0.85 1)"><tspan class="cls-24">R</tspan><tspan class="cls-25" x="4.5" y="0">A</tspan><tspan x="8.7" y="0">TING</tspan></text>
+    <rect class="cls-13" x="35.1" y="69.5" width="81.4" height="9.73" rx="4.9"/>
+    <text class="cls-21" transform="translate(62.8 77.2) scale(0.85 1)">HEADER</text>
+    <rect class="cls-13" x="35.1" y="81.7" width="81.4" height="9.73" rx="4.9"/>
+    <text class="cls-21" transform="translate(47.4 89.4) scale(0.85 1)"><tspan class="cls-26">D</tspan><tspan x="5" y="0">ASHB</tspan><tspan class="cls-26" x="24" y="0">O</tspan><tspan x="29.1" y="0">AR</tspan><tspan class="cls-27" x="38.8" y="0">D</tspan><tspan x="43.8" y="0" xml:space="preserve"> MENU</tspan></text>
+    <rect class="cls-13" x="35.1" y="94.5" width="81.4" height="9.73" rx="4.9"/>
+    <text class="cls-21" transform="translate(49.7 102.2) scale(0.85 1)">CHEC<tspan class="cls-28" x="18.3" y="0">K</tspan><tspan x="22.8" y="0">OU</tspan><tspan class="cls-29" x="33.2" y="0">T</tspan><tspan x="37.4" y="0" xml:space="preserve"> STEPS</tspan></text>
+    <rect class="cls-30" x="130.5" y="152.6" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(140.5 178.7) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan class="cls-31" x="5.4" y="0"> </tspan><tspan x="7.4" y="0">Where products are </tspan><tspan x="25.9" y="7">sh</tspan><tspan class="cls-20" x="33.6" y="7">o</tspan><tspan x="37.8" y="7">wn</tspan><tspan x="-7.2" y="14">2</tspan><tspan class="cls-16" x="-2.9" y="14">.</tspan><tspan x="-1.8" y="14" xml:space="preserve"> Uses </tspan><tspan class="cls-32" x="18.5" y="14">R</tspan><tspan x="23.2" y="14">ating </tspan><tspan class="cls-33" x="42.8" y="14">c</tspan><tspan x="46.2" y="14">omponent</tspan></text>
+    <text class="cls-21" transform="translate(150.7 166.6) scale(0.85 1)">HOME SCREEN</text>
+    <rect class="cls-30" x="227.4" y="153.3" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(233.8 181.4) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan class="cls-17" x="5.4" y="0"> </tspan><tspan x="7.3" y="0">Adds user </tspan><tspan class="cls-18" x="42.7" y="0">t</tspan><tspan x="45.3" y="0">o database</tspan><tspan x="5.2" y="7">2</tspan><tspan class="cls-16" x="9.6" y="7">.</tspan><tspan x="10.7" y="7" xml:space="preserve"> Uses </tspan><tspan class="cls-19" x="31" y="7">L</tspan><tspan x="34.6" y="7">ocal S</tspan><tspan class="cls-20" x="55.2" y="7">t</tspan><tspan x="57.9" y="7">orage</tspan></text>
+    <text class="cls-21" transform="translate(242.5 167.3) scale(0.85 1)">P<tspan class="cls-23" x="4.6" y="0">R</tspan><tspan x="9.1" y="0">ODU</tspan><tspan class="cls-34" x="24.7" y="0">C</tspan><tspan class="cls-35" x="28.8" y="0">T</tspan><tspan x="33" y="0" xml:space="preserve"> SCREEN</tspan></text>
+    <rect class="cls-30" x="255.3" y="211.7" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(261.7 239.8) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan class="cls-17" x="5.4" y="0"> </tspan><tspan x="7.3" y="0">Adds user </tspan><tspan class="cls-18" x="42.7" y="0">t</tspan><tspan x="45.3" y="0">o database</tspan><tspan x="5.2" y="7">2</tspan><tspan class="cls-16" x="9.6" y="7">.</tspan><tspan x="10.7" y="7" xml:space="preserve"> Uses </tspan><tspan class="cls-19" x="31" y="7">L</tspan><tspan x="34.6" y="7">ocal S</tspan><tspan class="cls-20" x="55.2" y="7">t</tspan><tspan x="57.9" y="7">orage</tspan></text>
+    <text class="cls-21" transform="translate(279 225.6) scale(0.85 1)"><tspan class="cls-34">C</tspan><tspan x="4.1" y="0">A</tspan><tspan class="cls-36" x="9" y="0">R</tspan><tspan class="cls-35" x="13.4" y="0">T</tspan><tspan x="17.6" y="0" xml:space="preserve"> SCREEN</tspan></text>
+    <rect class="cls-30" x="158.8" y="219.7" width="83.3" height="31.27" rx="12"/>
+    <text class="cls-21" transform="translate(177.5 233.7) scale(0.85 1)">SIGN-IN SCREEN</text>
+    <rect class="cls-37" x="31" y="152.3" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(47.3 180.4) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Used </tspan><tspan class="cls-20" x="26.7" y="0">t</tspan><tspan x="29.3" y="0">o sign-in</tspan><tspan x="-6.3" y="7">2</tspan><tspan class="cls-16" x="-2" y="7">.</tspan><tspan x="-0.9" y="7" xml:space="preserve"> Uses </tspan><tspan class="cls-19" x="19.4" y="7">L</tspan><tspan x="23.1" y="7">ocal S</tspan><tspan class="cls-20" x="43.7" y="7">t</tspan><tspan x="46.3" y="7">orage</tspan></text>
+    <text class="cls-21" transform="translate(48.6 166.3) scale(0.85 1)">SIGN-IN SCREEN</text>
+    <text class="cls-15" transform="translate(171.3 241.7) scale(0.85 1)">(If not Signed-In<tspan class="cls-38" x="55.8" y="0"> </tspan><tspan class="cls-20" x="57.8" y="0">y</tspan><tspan x="61.4" y="0">et)</tspan></text>
+    <rect class="cls-30" x="61.2" y="212.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(73.2 239.1) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Form that asks </tspan><tspan class="cls-20" x="59.9" y="0">f</tspan><tspan x="62.4" y="0">or </tspan><tspan x="-1.2" y="7">payment in</tspan><tspan class="cls-20" x="37.1" y="7">f</tspan><tspan x="39.6" y="7">ormation</tspan><tspan x="-4.3" y="14">2</tspan><tspan class="cls-16" x="0" y="14">.</tspan><tspan x="1.1" y="14" xml:space="preserve"> Uses Ch</tspan><tspan class="cls-20" x="30.3" y="14">e</tspan><tspan x="34.3" y="14">c</tspan><tspan class="cls-39" x="37.9" y="14">k</tspan><tspan x="41.7" y="14">out S</tspan><tspan class="cls-20" x="59.4" y="14">t</tspan><tspan x="62" y="14">eps</tspan></text>
+    <text class="cls-21" transform="translate(78.3 226.9) scale(0.85 1)"><tspan class="cls-40">P</tspan><tspan class="cls-41" x="4" y="0">A</tspan><tspan class="cls-42" x="8.1" y="0">YMEN</tspan><tspan class="cls-29" x="28.7" y="0">T</tspan><tspan x="32.9" y="0" xml:space="preserve"> SCREEN</tspan></text>
+    <rect class="cls-30" x="30" y="276.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(42 303) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Form that asks </tspan><tspan class="cls-20" x="59.9" y="0">f</tspan><tspan x="62.4" y="0">or </tspan><tspan x="-1" y="7">shipping in</tspan><tspan class="cls-20" x="37" y="7">f</tspan><tspan x="39.4" y="7">ormation</tspan><tspan x="-4.3" y="14">2</tspan><tspan class="cls-16" x="0" y="14">.</tspan><tspan x="1.1" y="14" xml:space="preserve"> Uses Ch</tspan><tspan class="cls-20" x="30.3" y="14">e</tspan><tspan x="34.3" y="14">c</tspan><tspan class="cls-39" x="37.9" y="14">k</tspan><tspan x="41.7" y="14">out S</tspan><tspan class="cls-20" x="59.4" y="14">t</tspan><tspan x="62" y="14">eps</tspan></text>
+    <text class="cls-21" transform="translate(47 290.8) scale(0.85 1)">SHIPPING SCREEN</text>
+    <rect class="cls-30" x="128.5" y="276.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(140.3 304) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Gets ca</tspan><tspan class="cls-43" x="32.3" y="0">r</tspan><tspan x="35.3" y="0">t products</tspan><tspan x="0" y="7">2</tspan><tspan class="cls-16" x="4.3" y="7">.</tspan><tspan x="5.4" y="7" xml:space="preserve"> Gets payment in</tspan><tspan class="cls-20" x="63.1" y="7">f</tspan><tspan x="65.5" y="7">o</tspan><tspan x="1.8" y="14">3</tspan><tspan class="cls-16" x="6.2" y="14">.</tspan><tspan x="7.3" y="14" xml:space="preserve"> Get shipping in</tspan><tspan class="cls-20" x="61.2" y="14">f</tspan><tspan x="63.7" y="14">o</tspan></text>
+    <text class="cls-21" transform="translate(139.5 290.8) scale(0.85 1)">P<tspan class="cls-44" x="4.6" y="0">L</tspan><tspan class="cls-45" x="7.7" y="0">A</tspan><tspan x="12.3" y="0">CE</tspan><tspan class="cls-27" x="21" y="0"> </tspan><tspan x="22.9" y="0">ORDER SCREEN</tspan></text>
+    <rect class="cls-30" x="226.4" y="276.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(229.1 303) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0"> </tspan><tspan class="cls-46" x="7.6" y="0">P</tspan><tspan x="11.8" y="0">aypal but</tspan><tspan class="cls-20" x="43.6" y="0">t</tspan><tspan x="46.2" y="0">on renders &amp; </tspan><tspan x="4.9" y="7">ta</tspan><tspan class="cls-47" x="11.6" y="7">k</tspan><tspan x="15.3" y="7">es user </tspan><tspan class="cls-20" x="41.5" y="7">t</tspan><tspan x="44.1" y="7">o the </tspan><tspan class="cls-46" x="63.8" y="7">P</tspan><tspan x="68" y="7">aypal </tspan><tspan x="10.6" y="14">wind</tspan><tspan class="cls-20" x="27.3" y="14">o</tspan><tspan class="cls-22" x="31.5" y="14">w</tspan><tspan x="37.2" y="14"> </tspan><tspan class="cls-20" x="39.4" y="14">f</tspan><tspan x="41.8" y="14">or payment</tspan></text>
+    <text class="cls-21" transform="translate(247.2 290.8) scale(0.85 1)">ORDER SCREEN</text>
+    <rect class="cls-48" x="99.6" y="389.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(114.2 412.1) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Sh</tspan><tspan class="cls-20" x="16.2" y="0">o</tspan><tspan x="20.4" y="0">ws in</tspan><tspan class="cls-18" x="38.3" y="0">f</tspan><tspan x="40.8" y="0">o from </tspan><tspan x="14.6" y="7">databases</tspan><tspan x="-12.2" y="14">2</tspan><tspan class="cls-16" x="-7.9" y="14">.</tspan><tspan x="-6.8" y="14" xml:space="preserve"> Meant </tspan><tspan class="cls-20" x="18.9" y="14">t</tspan><tspan x="21.6" y="14">o crea</tspan><tspan class="cls-18" x="42.4" y="14">t</tspan><tspan x="45" y="14">e/upda</tspan><tspan class="cls-20" x="68.8" y="14">t</tspan><tspan x="71.4" y="14">e </tspan><tspan x="2.6" y="21">in</tspan><tspan class="cls-20" x="9.1" y="21">f</tspan><tspan x="11.6" y="21">o in databases</tspan></text>
+    <text class="cls-21" transform="translate(109.1 403.9) scale(0.85 1)"><tspan class="cls-26">D</tspan><tspan x="5" y="0">ASHB</tspan><tspan class="cls-26" x="24" y="0">O</tspan><tspan x="29.1" y="0">AR</tspan><tspan class="cls-27" x="38.8" y="0">D</tspan><tspan x="43.8" y="0" xml:space="preserve"> SCREEN</tspan></text>
+    <rect class="cls-48" x="190.3" y="389.9" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(203.5 412) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Lists all orders at </tspan><tspan x="17.9" y="7">database</tspan><tspan x="-7.6" y="14">2</tspan><tspan class="cls-16" x="-3.2" y="14">.</tspan><tspan x="-2.1" y="14" xml:space="preserve"> Used </tspan><tspan class="cls-20" x="19.1" y="14">t</tspan><tspan x="21.7" y="14">o dele</tspan><tspan class="cls-18" x="42.9" y="14">t</tspan><tspan x="45.5" y="14">e or edit </tspan><tspan x="22.5" y="21">orders</tspan></text>
+    <text class="cls-21" transform="translate(203.9 403.9) scale(0.85 1)">ORDER LIS<tspan class="cls-29" x="37" y="0">T</tspan><tspan x="41.2" y="0" xml:space="preserve"> SCREEN</tspan></text>
+    <rect class="cls-48" x="98.9" y="447.2" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(108.6 469.3) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Lists all products at </tspan><tspan x="22" y="7">database</tspan><tspan x="-3" y="14">2</tspan><tspan class="cls-16" x="1.3" y="14">.</tspan><tspan x="2.4" y="14"> </tspan><tspan class="cls-49" x="4.5" y="14">C</tspan><tspan x="9" y="14">rea</tspan><tspan class="cls-18" x="19.7" y="14">t</tspan><tspan x="22.3" y="14">es n</tspan><tspan class="cls-20" x="36.3" y="14">e</tspan><tspan class="cls-22" x="40.3" y="14">w</tspan><tspan x="46" y="14" xml:space="preserve"> products</tspan></text>
+    <text class="cls-21" transform="translate(108.8 461.1) scale(0.85 1)">P<tspan class="cls-23" x="4.6" y="0">R</tspan><tspan x="9.1" y="0">ODU</tspan><tspan class="cls-34" x="24.7" y="0">C</tspan><tspan class="cls-35" x="28.8" y="0">T</tspan><tspan x="33" y="0" xml:space="preserve"> LIS</tspan><tspan class="cls-29" x="45.7" y="0">T</tspan><tspan x="49.9" y="0" xml:space="preserve"> SCREEN</tspan></text>
+    <rect class="cls-48" x="189.7" y="447.1" width="83.3" height="48.07" rx="12"/>
+    <text class="cls-15" transform="translate(200.3 469.3) scale(0.85 1)">1<tspan class="cls-16" x="4.4" y="0">.</tspan><tspan x="5.4" y="0" xml:space="preserve"> Upda</tspan><tspan class="cls-20" x="25.4" y="0">t</tspan><tspan x="28" y="0">es product in </tspan><tspan x="20.9" y="7">database</tspan><tspan x="-4.5" y="14">2</tspan><tspan class="cls-16" x="-0.2" y="14">.</tspan><tspan x="0.9" y="14" xml:space="preserve"> Scr</tspan><tspan class="cls-50" x="13.6" y="14">e</tspan><tspan x="17.6" y="14">en is also used </tspan><tspan class="cls-18" x="70.1" y="14">t</tspan><tspan x="72.7" y="14">o </tspan><tspan x="1.8" y="21">crea</tspan><tspan class="cls-20" x="16.1" y="21">t</tspan><tspan x="18.7" y="21">e n</tspan><tspan class="cls-20" x="29.3" y="21">e</tspan><tspan class="cls-22" x="33.3" y="21">w</tspan><tspan x="39" y="21" xml:space="preserve"> products</tspan></text>
+    <text class="cls-21" transform="translate(199.1 461.1) scale(0.85 1)">P<tspan class="cls-23" x="4.6" y="0">R</tspan><tspan x="9.1" y="0">ODU</tspan><tspan class="cls-34" x="24.7" y="0">C</tspan><tspan class="cls-35" x="28.8" y="0">T</tspan><tspan x="33" y="0" xml:space="preserve"> EDI</tspan><tspan class="cls-29" x="46.7" y="0">T</tspan><tspan x="50.9" y="0" xml:space="preserve"> SCREEN</tspan></text>
+  </g>
+  <g id="Arrows">
+    <g>
+      <line class="cls-51" x1="327.2" y1="180.6" x2="327.2" y2="212.6"/>
+      <polygon points="322.2 211.1 327.2 219.7 332.2 211.1 322.2 211.1"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="309.2" y1="180.6" x2="327.7" y2="180.6"/>
+      <path d="M309.3,184.3a3.8,3.8,0,0,1,0-7.5,3.8,3.8,0,1,1,0,7.5Z"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="255.9" y1="237" x2="242.9" y2="237"/>
+      <path d="M255.7,233.2a3.8,3.8,0,0,1,3.8,3.8,3.7,3.7,0,0,1-3.8,3.7A3.6,3.6,0,0,1,252,237,3.7,3.7,0,0,1,255.7,233.2Z"/>
+      <polygon points="244.4 232 235.7 237 244.4 242 244.4 232"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="211.9" y1="177.3" x2="226.2" y2="177.3"/>
+      <path d="M212.1,181.1a3.8,3.8,0,1,1,3.8-3.8A3.8,3.8,0,0,1,212.1,181.1Z"/>
+      <polygon points="224.7 182.3 233.4 177.3 224.7 172.4 224.7 182.3"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="62.1" y1="235.5" x2="45.3" y2="235.5"/>
+      <path d="M61.9,231.7a3.8,3.8,0,1,1,0,7.5,3.8,3.8,0,0,1,0-7.5Z"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="45.7" y1="235.5" x2="45.7" y2="275.5"/>
+      <polygon points="40.7 274.1 45.7 282.7 50.7 274.1 40.7 274.1"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="159.7" y1="236.4" x2="146.7" y2="236.4"/>
+      <path d="M159.5,232.7a3.7,3.7,0,0,1,3.8,3.7,3.8,3.8,0,1,1-7.5,0A3.7,3.7,0,0,1,159.5,232.7Z"/>
+      <polygon points="148.2 231.4 139.6 236.4 148.2 241.4 148.2 231.4"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="176.7" y1="414" x2="190.9" y2="414"/>
+      <path d="M176.9,417.7a3.7,3.7,0,0,1-3.8-3.7,3.8,3.8,0,0,1,3.8-3.8,3.7,3.7,0,0,1,3.7,3.8A3.6,3.6,0,0,1,176.9,417.7Z"/>
+      <polygon points="189.5 419 198.1 414 189.5 409 189.5 419"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="110.5" y1="432" x2="110.5" y2="446.3"/>
+      <path d="M106.8,432.2a3.8,3.8,0,0,1,7.5,0,3.8,3.8,0,1,1-7.5,0Z"/>
+      <polygon points="105.6 444.8 110.5 453.5 115.5 444.8 105.6 444.8"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="178.6" y1="473.2" x2="192.9" y2="473.2"/>
+      <path d="M178.8,477a3.7,3.7,0,0,1-3.7-3.8,3.6,3.6,0,0,1,3.7-3.7,3.7,3.7,0,0,1,3.8,3.7A3.8,3.8,0,0,1,178.8,477Z"/>
+      <polygon points="191.4 478.2 200.1 473.2 191.4 468.2 191.4 478.2"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="113.3" y1="300.4" x2="126.3" y2="300.4"/>
+      <path d="M113.5,304.2a3.8,3.8,0,1,1,3.8-3.8A3.8,3.8,0,0,1,113.5,304.2Z"/>
+      <polygon points="124.8 305.4 133.5 300.4 124.8 295.5 124.8 305.4"/>
+    </g>
+    <g>
+      <line class="cls-51" x1="209.4" y1="302.3" x2="222.4" y2="302.3"/>
+      <path d="M209.5,306a3.8,3.8,0,0,1,0-7.5,3.8,3.8,0,1,1,0,7.5Z"/>
+      <polygon points="220.9 307.3 229.5 302.3 220.9 297.3 220.9 307.3"/>
+    </g>
+  </g>
+</svg>
