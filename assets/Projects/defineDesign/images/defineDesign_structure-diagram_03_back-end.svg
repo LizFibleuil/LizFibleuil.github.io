@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 367.32 190.24" style="enable-background:new 0 0 367.32 190.24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B26044;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:5.9915,5.9915;}
+	.st2{fill:none;}
+	.st3{font-family:'PTSans-Bold';}
+	.st4{font-size:14.0494px;}
+	.st5{fill:#6D3D38;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#EA8F3D;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#D14B15;stroke:#000000;stroke-miterlimit:10;}
+	.st8{font-family:'PTSans-Regular';}
+	.st9{font-size:8px;}
+	.st10{fill:#C44E4B;stroke:#000000;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="Structure">
+	<g>
+		<path class="st0" d="M354.82,189.74H12.5c-6.6,0-12-5.4-12-12V12.5c0-6.6,5.4-12,12-12h342.32c6.6,0,12,5.4,12,12v165.24
+			C366.82,184.34,361.42,189.74,354.82,189.74z"/>
+		<path class="st1" d="M354.82,189.74H12.5c-6.6,0-12-5.4-12-12V12.5c0-6.6,5.4-12,12-12h342.32c6.6,0,12,5.4,12,12v165.24
+			C366.82,184.34,361.42,189.74,354.82,189.74z"/>
+	</g>
+	<rect x="164.21" y="8.48" class="st2" width="53.37" height="15.23"/>
+	<text transform="matrix(0.8541 0 0 1 164.2136 18.3183)" class="st3 st4">Back-End</text>
+</g>
+<g id="Categories">
+	<path class="st5" d="M341.11,173.3h-133.1c-6.6,0-12-5.4-12-12V40.71c0-6.6,5.4-12,12-12h133.1c6.6,0,12,5.4,12,12V161.3
+		C353.11,167.9,347.71,173.3,341.11,173.3z"/>
+	<rect x="254.24" y="36.53" class="st2" width="41.09" height="15.23"/>
+	<text transform="matrix(0.8541 0 0 1 254.2355 46.3672)" class="st3 st4">Models</text>
+	<path class="st6" d="M169.35,173.3H36.25c-6.6,0-12-5.4-12-12V39.15c0-6.6,5.4-12,12-12h133.1c6.6,0,12,5.4,12,12V161.3
+		C181.35,167.9,175.95,173.3,169.35,173.3z"/>
+	<rect x="82.48" y="34.97" class="st2" width="41.09" height="15.23"/>
+	<text transform="matrix(0.8541 0 0 1 82.4759 44.8003)" class="st3 st4">Routers</text>
+</g>
+<g id="Screens">
+	<path class="st7" d="M152.21,102.9H52.23c-6.6,0-12-5.4-12-12V66.83c0-6.6,5.4-12,12-12h99.99c6.6,0,12,5.4,12,12V90.9
+		C164.21,97.5,158.81,102.9,152.21,102.9z"/>
+	<rect x="49.58" y="74.36" class="st2" width="107.89" height="31.61"/>
+	<text transform="matrix(0.8541 0 0 1 55.245 79.9653)"><tspan x="0" y="0" class="st8 st9">Deals with all requests regarding </tspan><tspan x="13.09" y="7" class="st8 st9">Design. including posting </tspan><tspan x="8.88" y="14" class="st8 st9">information to the database</tspan></text>
+	<rect x="61.12" y="63.17" class="st2" width="83.4" height="8.69"/>
+	<text transform="matrix(0.8541 0 0 1 78.5834 68.7746)" class="st3 st9">DESIGN ROUTER</text>
+	<path class="st10" d="M324.77,102.9h-99.99c-6.6,0-12-5.4-12-12V66.83c0-6.6,5.4-12,12-12h99.99c6.6,0,12,5.4,12,12V90.9
+		C336.77,97.5,331.37,102.9,324.77,102.9z"/>
+	<rect x="233.63" y="75.36" class="st2" width="83.4" height="31.61"/>
+	<text transform="matrix(0.8541 0 0 1 237.7385 80.9648)"><tspan x="0" y="0" class="st8 st9">Defines schema of Design </tspan><tspan x="7.97" y="7" class="st8 st9">database and creates </tspan><tspan x="15.87" y="14" class="st8 st9">Design database</tspan></text>
+	<rect x="233.68" y="63.17" class="st2" width="83.4" height="8.69"/>
+	<text transform="matrix(0.8541 0 0 1 252.6413 68.7746)" class="st3 st9">DESIGN MODEL</text>
+	<path class="st7" d="M151.61,164.02H51.63c-6.6,0-12-5.4-12-12v-24.07c0-6.6,5.4-12,12-12h99.99c6.6,0,12,5.4,12,12v24.07
+		C163.61,158.62,158.21,164.02,151.61,164.02z"/>
+	<rect x="60.47" y="138.48" class="st2" width="83.4" height="31.61"/>
+	<text transform="matrix(0.8541 0 0 1 60.5324 144.0785)"><tspan x="0" y="0" class="st8 st9">Deals with image uploads to </tspan><tspan x="20.6" y="7" class="st8 st9">the Disk Storage</tspan></text>
+	<rect x="60.52" y="124.29" class="st2" width="83.4" height="8.69"/>
+	<text transform="matrix(0.8541 0 0 1 76.6647 129.8883)" class="st3 st9">UPLOAD ROUTER</text>
+</g>
+<g id="Back-End">
+</g>
+<g id="Arrows">
+	<g>
+		<g>
+			<line class="st11" x1="222.61" y1="78.87" x2="164.65" y2="78.87"/>
+			<g>
+				<path d="M222.42,75.11c2.08,0,3.76,1.68,3.76,3.76s-1.68,3.76-3.76,3.76c-2.08,0-3.76-1.68-3.76-3.76S220.35,75.11,222.42,75.11
+					z"/>
+			</g>
+			<g>
+				<polygon points="166.11,73.88 157.47,78.87 166.11,83.85 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
