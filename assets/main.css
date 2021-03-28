@@ -895,6 +895,37 @@ nav {
     }
 
 }
+/* Section - MiniFolio*/
+.minifolio-description {
+    /*border:1px solid red;*/
+    margin: 30px 25px 10px 25px;
+    text-align:right;
+    max-width:75%;
+    float:right;
+}
+.overall-minifolio {
+    /*border: 1px solid green;*/
+    margin: 130px 25px 50px 25px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    flex: 1 0 100px;
+}
+/* MiniFolio - Media Query*/
+@media only screen and (max-width: 600px){
+    #minifolio {
+        position:static;
+        margin-top:-10px;
+        /*border:1px solid blue;*/
+    
+    }
+    .minifolio-description {
+        margin: 20px 25px 0 60px;
+    }
+    .overall-minifolio {
+        margin: 100px 25px 50px 25px;
+    }
+}
 /* Section - Collaborate*/
 #collaborate-triangle {
     position: static;

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 424.09 303.47" style="enable-background:new 0 0 424.09 303.47;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B26044;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'PTSans-Regular';}
+	.st3{font-size:14.0494px;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#9B7A75;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#A86552;stroke:#000000;stroke-miterlimit:10;}
+	.st7{font-family:'PTSans-Bold';}
+	.st8{font-size:10px;}
+	.st9{font-size:8px;}
+	.st10{fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10;}
+	.st11{fill:#8FA065;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="96.91" cy="78.78" r="33.18"/>
+<rect x="12.67" y="73.17" class="st1" width="36.56" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 12.6673 83.0014)" class="st2 st3">git init</text>
+<g>
+	<g>
+		<line class="st4" x1="52.78" y1="79.49" x2="71.08" y2="79.49"/>
+		<g>
+			<path d="M52.96,83.25c-2.08,0-3.76-1.68-3.76-3.76c0-2.08,1.68-3.76,3.76-3.76c2.08,0,3.76,1.68,3.76,3.76
+				C56.72,81.57,55.04,83.25,52.96,83.25z"/>
+		</g>
+		<g>
+			<polygon points="69.62,84.48 78.25,79.49 69.62,74.5 			"/>
+		</g>
+	</g>
+</g>
+<circle class="st5" cx="368.61" cy="78.78" r="33.18"/>
+<circle class="st6" cx="225.06" cy="78.78" r="33.18"/>
+<rect x="135.56" y="73.17" class="st1" width="36.56" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 135.5616 83.0014)" class="st2 st3">git add</text>
+<g>
+	<g>
+		<line class="st4" x1="178.67" y1="79.49" x2="196.97" y2="79.49"/>
+		<g>
+			<path d="M178.86,83.25c-2.08,0-3.76-1.68-3.76-3.76c0-2.08,1.68-3.76,3.76-3.76c2.08,0,3.76,1.68,3.76,3.76
+				C182.62,81.57,180.93,83.25,178.86,83.25z"/>
+		</g>
+		<g>
+			<polygon points="195.51,84.48 204.15,79.49 195.51,74.5 			"/>
+		</g>
+	</g>
+</g>
+<rect x="261.46" y="71.17" class="st1" width="67.24" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 261.4557 81.0014)" class="st2 st3">git commit</text>
+<g>
+	<g>
+		<line class="st4" x1="324.47" y1="77.78" x2="342.77" y2="77.78"/>
+		<g>
+			<path d="M324.66,81.54c-2.08,0-3.76-1.68-3.76-3.76c0-2.08,1.68-3.76,3.76-3.76c2.08,0,3.76,1.68,3.76,3.76
+				C328.42,79.86,326.74,81.54,324.66,81.54z"/>
+		</g>
+		<g>
+			<polygon points="341.31,82.77 349.95,77.78 341.31,72.79 			"/>
+		</g>
+	</g>
+</g>
+<rect x="63.73" y="116.58" class="st1" width="72.32" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 63.7282 123.5764)" class="st7 st8">Working Directory</text>
+<rect x="59.88" y="131.24" class="st1" width="74.05" height="19.82"/>
+<text transform="matrix(0.8541 0 0 1 64.273 136.8358)"><tspan x="0" y="0" class="st2 st9">Initial folder where all </tspan><tspan x="-3.82" y="9.6" class="st2 st9">working files are located</tspan></text>
+<rect x="203.2" y="115.41" class="st1" width="46.98" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 203.2007 122.4063)" class="st7 st8">Staging Area</text>
+<rect x="182.09" y="130.06" class="st1" width="85.93" height="19.82"/>
+<text transform="matrix(0.8541 0 0 1 182.7786 135.6653)"><tspan x="0" y="0" class="st2 st9">Area where files that want to </tspan><tspan x="5.86" y="9.6" class="st2 st9">be committed area added</tspan></text>
+<rect x="349.75" y="115.41" class="st1" width="46.98" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 349.747 122.4063)" class="st7 st8">Repository</text>
+<rect x="325.64" y="130.06" class="st1" width="85.93" height="19.82"/>
+<text transform="matrix(0.8541 0 0 1 326.3659 135.6653)"><tspan x="0" y="0" class="st2 st9">Area where changed files are </tspan><tspan x="31.33" y="9.6" class="st2 st9">now saved</tspan></text>
+<line class="st10" x1="63.73" y1="34.53" x2="400.22" y2="34.53"/>
+<rect x="193.88" y="18.82" class="st1" width="97.6" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 193.8789 28.6566)" class="st7 st3">local computer</text>
+<circle class="st11" cx="228.06" cy="191.17" r="33.18"/>
+<rect x="195.62" y="229.5" class="st1" width="81.07" height="11.66"/>
+<text transform="matrix(0.8541 0 0 1 195.6231 236.4959)" class="st7 st8">GitHub Repository</text>
+<rect x="187.09" y="242.45" class="st1" width="85.93" height="19.82"/>
+<text transform="matrix(0.8541 0 0 1 193.8596 248.0532)"><tspan x="0" y="0" class="st2 st9">Files are pushed into the</tspan><tspan x="14.71" y="9.6" class="st2 st9">cloud repository</tspan></text>
+<g>
+	<g>
+		<line class="st4" x1="368.61" y1="153.67" x2="368.61" y2="191.61"/>
+		<g>
+			<path d="M364.85,153.86c0-2.08,1.68-3.76,3.76-3.76s3.76,1.68,3.76,3.76c0,2.08-1.68,3.76-3.76,3.76S364.85,155.94,364.85,153.86
+				z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="368.61" y1="191.61" x2="275.2" y2="191.61"/>
+		<g>
+			<polygon points="276.66,186.63 268.03,191.61 276.66,196.6 			"/>
+		</g>
+	</g>
+</g>
+<rect x="316.33" y="176.39" class="st1" width="67.24" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 316.3289 186.2206)" class="st2 st3">git push</text>
+<line class="st10" x1="65.73" y1="273.57" x2="402.22" y2="273.57"/>
+<rect x="208.88" y="279.52" class="st1" width="97.6" height="15.23"/>
+<text transform="matrix(0.8541 0 0 1 208.8789 289.3587)" class="st7 st3">the cloud</text>
+</svg>
