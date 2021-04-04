@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="399.1" height="269.3" viewBox="0 0 399.1 269.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9b7a75;
+      }
+
+      .cls-1, .cls-25, .cls-31, .cls-33, .cls-34, .cls-36, .cls-39, .cls-40, .cls-41 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-34 {
+        font-size: 14.05px;
+      }
+
+      .cls-2, .cls-22 {
+        font-family: PTSans-Bold, PT Sans;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-9 {
+        font-size: 8px;
+      }
+
+      .cls-34, .cls-9 {
+        font-family: PTSans-Regular, PT Sans;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.07em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.07em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-22 {
+        font-size: 10px;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-25 {
+        fill: #a86552;
+      }
+
+      .cls-26 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-27 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-28 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-29 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-30 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-31 {
+        fill: #ad4027;
+      }
+
+      .cls-32 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-33 {
+        fill: #b28d86;
+      }
+
+      .cls-34 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-35 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-36 {
+        fill: #8fa065;
+      }
+
+      .cls-37 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-38 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-39 {
+        fill: #546816;
+      }
+
+      .cls-40 {
+        fill: #9db537;
+      }
+
+      .cls-41 {
+        fill: #b6c187;
+      }
+    </style>
+  </defs>
+  <title>React App Setup</title>
+  <g id="Root_Directory" data-name="Root Directory">
+    <rect class="cls-1" x="17.4" y="0.5" width="381.3" height="268.33" rx="12"/>
+    <text class="cls-2" transform="translate(11.9 180.3) rotate(-90) scale(0.85 1)"><tspan class="cls-3">P</tspan><tspan x="7.6" y="0">roj</tspan><tspan class="cls-4" x="23.9" y="0">e</tspan><tspan x="30.9" y="0">ct </tspan><tspan class="cls-5" x="45.5" y="0">R</tspan><tspan x="53.3" y="0">oot Dir</tspan><tspan class="cls-6" x="94.6" y="0">e</tspan><tspan class="cls-7" x="101.7" y="0">c</tspan><tspan class="cls-6" x="107.8" y="0">t</tspan><tspan x="112.6" y="0">or</tspan><tspan class="cls-8" x="125.1" y="0">y</tspan></text>
+    <text class="cls-9" transform="translate(141.9 13.4) scale(0.85 1)">INS<tspan class="cls-10" x="12" y="0">T</tspan><tspan x="15.9" y="0">AL</tspan><tspan class="cls-11" x="24.7" y="0">L</tspan><tspan class="cls-12" x="28.5" y="0"> </tspan><tspan class="cls-13" x="30.4" y="0">THE NODE </tspan><tspan class="cls-14" x="69.1" y="0">P</tspan><tspan class="cls-15" x="73.1" y="0">A</tspan><tspan x="77.6" y="0">C</tspan><tspan class="cls-16" x="82.1" y="0">K</tspan><tspan class="cls-15" x="86.8" y="0">A</tspan><tspan x="91.3" y="0">GES</tspan><tspan class="cls-12" x="104.7" y="0"> </tspan><tspan x="106.6" y="0">TH</tspan><tspan class="cls-17" x="116.4" y="0">A</tspan><tspan class="cls-18" x="120.5" y="0">T</tspan><tspan class="cls-19" x="124.7" y="0"> </tspan><tspan x="126.6" y="0">WIL</tspan><tspan class="cls-11" x="139.7" y="0">L</tspan><tspan x="143.5" y="0" xml:space="preserve"> BE </tspan><tspan x="33.3" y="9.6">USED IN ENTIRE P</tspan><tspan class="cls-20" x="96.4" y="9.6">R</tspan><tspan x="100.8" y="9.6">OJE</tspan><tspan class="cls-21" x="112.9" y="9.6">C</tspan><tspan class="cls-18" x="117.2" y="9.6">T</tspan></text>
+    <text class="cls-22" transform="translate(151.6 34.6) scale(0.85 1)">Body-<tspan class="cls-23" x="25" y="0">P</tspan><tspan x="30.5" y="0">arser</tspan></text>
+    <text class="cls-22" transform="translate(230.2 34.6) scale(0.85 1)">Nodemon</text>
+    <text class="cls-22" transform="translate(87.8 34.6) scale(0.85 1)">Express</text>
+    <text class="cls-22" transform="translate(287.3 34.6) scale(0.85 1)"><tspan class="cls-24">P</tspan><tspan x="5.4" y="0">g or Mongoose</tspan></text>
+  </g>
+  <g id="Front-End">
+    <rect class="cls-25" x="38.1" y="78.3" width="156.7" height="173.63" rx="12"/>
+    <text class="cls-2" transform="translate(88.8 73.7) scale(0.85 1)">Fron<tspan class="cls-26" x="27.3" y="0">t</tspan><tspan x="31.9" y="0">-End</tspan></text>
+    <text class="cls-9" transform="translate(55.4 90.1) scale(0.85 1)">crea<tspan class="cls-27" x="14.4" y="0">t</tspan><tspan x="17" y="0">ed </tspan><tspan class="cls-28" x="27.5" y="0">b</tspan><tspan class="cls-24" x="31.7" y="0">y</tspan><tspan x="35.2" y="0" xml:space="preserve"> using the CRE</tspan><tspan class="cls-17" x="84.8" y="0">A</tspan><tspan x="89" y="0">TE-RE</tspan><tspan class="cls-15" x="109.6" y="0">A</tspan><tspan class="cls-21" x="114.1" y="0">C</tspan><tspan class="cls-29" x="118.4" y="0">T</tspan><tspan x="122.2" y="0">-AP</tspan><tspan class="cls-18" x="134.2" y="0">P</tspan><tspan x="138.4" y="0"> </tspan><tspan class="cls-30" x="52.5" y="9.6">c</tspan><tspan x="55.9" y="9.6">ommand</tspan></text>
+    <rect class="cls-31" x="46" y="120" width="141.3" height="102.08" rx="12"/>
+    <text class="cls-22" transform="translate(102.9 117.4) scale(0.85 1)">sr<tspan class="cls-32" x="7.7" y="0">c</tspan><tspan x="11.8" y="0" xml:space="preserve"> files</tspan></text>
+    <text class="cls-22" transform="translate(51.7 239.3) scale(0.85 1)">publi<tspan class="cls-32" x="21.8" y="0">c</tspan><tspan x="25.9" y="0" xml:space="preserve"> files</tspan></text>
+    <text class="cls-22" transform="translate(127.3 239.3) scale(0.85 1)">package.json</text>
+  </g>
+  <g id="Front-SRCs">
+    <circle class="cls-33" cx="93.6" cy="168.9" r="41.5"/>
+    <text class="cls-34" transform="translate(135.3 205.1) scale(0.85 1)">ind<tspan class="cls-35" x="19" y="0">e</tspan><tspan x="25.8" y="0">x.js</tspan></text>
+    <text class="cls-34" transform="translate(136 159.8) scale(0.85 1)">ind<tspan class="cls-35" x="19" y="0">e</tspan><tspan x="25.8" y="0">x.css</tspan></text>
+    <text class="cls-34" transform="translate(62.7 172.2) scale(0.85 1)"><tspan class="cls-35">c</tspan><tspan x="6" y="0">omponents</tspan></text>
+  </g>
+  <g id="Back-End">
+    <rect class="cls-36" x="222.2" y="78.6" width="156.7" height="173.33" rx="12"/>
+    <text class="cls-2" transform="translate(276.9 74) scale(0.85 1)">Bac<tspan class="cls-37" x="21.4" y="0">k</tspan><tspan x="27.7" y="0">-End</tspan></text>
+    <text class="cls-9" transform="translate(271.2 90.1) scale(0.85 1)">crea<tspan class="cls-27" x="14.4" y="0">t</tspan><tspan x="17" y="0">ed </tspan><tspan class="cls-28" x="27.5" y="0">b</tspan><tspan class="cls-24" x="31.7" y="0">y</tspan><tspan x="35.1" y="0" xml:space="preserve"> us manuall</tspan><tspan class="cls-38" x="74.9" y="0">y</tspan></text>
+    <circle class="cls-39" cx="264.3" cy="150.2" r="30.4"/>
+    <text class="cls-34" transform="translate(284.8 114.1) scale(0.85 1)">ind<tspan class="cls-35" x="19" y="0">e</tspan><tspan x="25.8" y="0">x.js</tspan></text>
+    <circle class="cls-40" cx="287.7" cy="215.8" r="30.4"/>
+    <circle class="cls-41" cx="338.1" cy="162.8" r="30.4"/>
+    <text class="cls-34" transform="translate(253.3 154.7) scale(0.85 1)">API</text>
+    <text class="cls-34" transform="translate(261.2 220.3) scale(0.85 1)">databases</text>
+    <text class="cls-34" transform="translate(318.6 167.5) scale(0.85 1)">models</text>
+  </g>
+</svg>

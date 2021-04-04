@@ -13,7 +13,9 @@ html,body {
     --bio-arrow-color-2019:rgba(92, 21, 40, 1);
     --bio-arrow-text:rgba(0, 0, 0,0.5);
     --bio-why-text:rgba(92, 21, 40, 1);
-    --input-bg-color:rgba(141,136,109,0.1); 
+    --input-bg-color:rgba(141,136,109,0.1);
+    --color-gray:rgb(56, 56, 56);
+    --color-hover: rgb(175, 10, 54);
 }
 @viewport {
     width: device-width ;
@@ -281,21 +283,49 @@ nav {
 }
 .codetorial-menu {
     grid-area: menu;
-    border:1px solid black;
-    background-color:var(--main-color);
+    border:15px solid white; 
+    background-color:var(--second-title-color);
 }
 .codetorial-menu h3 {
-    margin-left:1rem;
+    margin: 1rem;
     text-transform: uppercase;
+    text-align: center;
     font-weight: bold;
+    border-bottom: solid 2px black;
+    letter-spacing: 1.5px;
+}
+.codetorial-menu ul {
+    /*border: 1px solid blue;*/
+    text-align: center;
+    padding-left: 0;
 }
 .codetorial-menu li {
     list-style: none;
     font-size: 1.2rem;
+    text-align: center;
+    /*border: 1px solid red;*/
+    margin:0;
+    padding: 5px 0;
+    color:white;
+}
+.codetorial-menu li:hover {
+    color:var(--color-hover);
 }
 .codetorial-content {
     grid-area: main;
-    border:1px solid orange;
+    /*border:1px solid orange;*/
+}
+@media only screen and (max-width:900px){
+    .codetorial-content-overall{
+        /*border:1px solid red;*/
+        display:grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.25fr 0.75fr;
+        grid-template-areas: 
+            'menu' 
+            'main';
+        height:100%;
+    }
 }
 /* Codetorial Body */
 .codetorial-body {
@@ -307,6 +337,49 @@ nav {
 .codetorial-body h2 {
     text-transform: uppercase;
     color:var(--second-title-color);
+}
+.instruction-list li {
+    padding-bottom:20px;
+}
+/* Tutorial Image Displays */
+.image-display {
+    width:100%;
+    /*border:1px solid red;*/
+    height:500px;
+    padding:0;
+    margin:0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+}
+.image-caption {
+    text-align:center;
+    color: var(--color-gray);
+    font-size:14px;
+}
+@media only screen and (max-width:600px){
+    .image-display {
+        height:400px;
+    }
+}
+@media only screen and (max-width:500px){
+    .image-display {
+        height:350px;
+    }
+}
+@media only screen and (max-width:400px){
+    .image-display {
+        height:250px;
+    }
+}
+#git-workflow {
+    background-image: url('./codetorials/GitHubRepo/Images/GitHub_Workflow_Diagram.svg');
+}
+#react-setup-image {
+    background-image: url('./codetorials/ReactSetup/Images/React\ App\ Setup.svg');
+}
+#eslint-setup-image {
+    background-image: url('./codetorials/EsLintSetup/Images/eslintrcCode.png');
 }
 /* Footer*/
 .overall-footer {
